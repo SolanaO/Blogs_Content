@@ -1,0 +1,1131 @@
+text,canonical_text,entity_group,score,merged_mentions,patient_count,entity_id
+osteopenia,osteopenia,DISEASE,0.9651035070419312,1,1,DIS_b1c1bd92
+hearing loss,hearing loss,DISEASE,0.9631513953208923,1,1,DIS_8297de4a
+menorrhagia,menorrhagia,DISEASE,0.9617823958396912,1,1,DIS_8aa45ce7
+enthesitis,enthesitis,DISEASE,0.9616243243217468,1,1,DIS_5b42fbee
+angina,angina,DISEASE,0.9609403014183044,1,1,DIS_bd4b9c38
+cystic fibrosis,cystic fibrosis,DISEASE,0.9599742293357849,1,1,DIS_1d802a2c
+myasthenia gravis,myasthenia gravis,DISEASE,0.9598466157913208,2,2,DIS_0d60c66b
+papilledema,papilledema,DISEASE,0.9594591617584228,5,4,DIS_4a147408
+trismus,trismus,DISEASE,0.9582725167274475,1,1,DIS_f9bf8ee9
+ophthalmoplegia,ophthalmoplegia,DISEASE,0.9579960405826569,2,2,DIS_184cc992
+dysmenorrhea,dysmenorrhea,DISEASE,0.9577415585517883,1,1,DIS_4b0b0842
+gastroparesis,gastroparesis,DISEASE,0.9577313959598541,2,2,DIS_fc9849f4
+amaurosis fugax,amaurosis fugax,DISEASE,0.9574760993321737,3,3,DIS_c5c46290
+cardiac ischemia,cardiac ischemia,DISEASE,0.9567636847496033,1,1,DIS_d66a5501
+dermatomyositis,dermatomyositis,DISEASE,0.9562328457832336,1,1,DIS_83ecb5b0
+dementia,dementia,DISEASE,0.9562281370162964,1,1,DIS_3f1adf20
+rheumatoid arthritis,rheumatoid arthritis,DISEASE,0.9562279582023621,2,2,DIS_22271cd8
+calcinosis,calcinosis,DISEASE,0.9561383724212646,1,1,DIS_6a0fc177
+polycystic ovary syndrome,polycystic ovarian syndrome,DISEASE,0.9560024738311768,2,2,DIS_f050c817
+peptic stricture,peptic stricture,DISEASE,0.955947756767273,1,1,DIS_fd2444b4
+hfpef,hfpef,DISEASE,0.9558635950088501,1,1,DIS_7c532a8a
+vestibular neuritis,vestibular neuritis,DISEASE,0.9558500051498413,1,1,DIS_2266ae87
+otitis media,otitis media,DISEASE,0.9557340542475382,3,3,DIS_d593cbf7
+pancreatic exocrine insufficiency,pancreatic exocrine insufficiency,DISEASE,0.9556559125582377,3,3,DIS_fb27556b
+macular degeneration,macular degeneration,DISEASE,0.9556068181991577,1,1,DIS_054aaa63
+iron - deficiency anemia,iron - deficiency anemia,DISEASE,0.9553901382855007,14,14,DIS_553ac9e7
+polymyalgia rheumatica,polymyalgia rheumatica,DISEASE,0.9547431213515145,14,14,DIS_26f5927e
+myalgias,myalgias,DISEASE,0.9546795189380646,2,2,DIS_acac2a0f
+insulin deficiency,insulin deficiency,DISEASE,0.9542899131774902,1,1,DIS_1542a67d
+vestibular schwannoma,vestibular schwannoma,DISEASE,0.9540081024169922,1,1,DIS_9d5eb3ee
+osteoarthritis of the knees,osteoarthritis of the knees,DISEASE,0.9538125991821289,2,2,DIS_88d85515
+urinary dysfunction,urinary dysfunction,DISEASE,0.9530966281890869,2,2,DIS_a800efc1
+achalasia,achalasia,DISEASE,0.9529961347579956,1,1,DIS_3240b42d
+meniere disease,meniere disease,DISEASE,0.9525293111801147,1,1,DIS_efb84f5d
+steatorrhea,steatorrhea,DISEASE,0.952432910601298,3,3,DIS_960b1a8a
+migraine headaches,migraine headaches,DISEASE,0.952387273311615,1,1,DIS_3ed93e1b
+bowel incontinence,bowel incontinence,DISEASE,0.9523176550865173,1,1,DIS_da4bda59
+mononucleosis,mononucleosis,DISEASE,0.9522784352302551,1,1,DIS_0c07401c
+amenorrhea,amenorrhea,DISEASE,0.9522781372070312,1,1,DIS_a19ffac1
+ventriculomegaly,ventriculomegaly,DISEASE,0.9521489888429642,20,20,DIS_a37a7fba
+cyanosis,cyanosis,DISEASE,0.9519023810114179,7,7,DIS_34ad94d1
+peptic ulcer disease,peptic ulcer disease,DISEASE,0.9516969323158264,7,7,DIS_2fbce424
+intussusception,intussusception,DISEASE,0.9511247674624125,6,6,DIS_0faa8546
+subcutaneous emphysema,subcutaneous emphysema,DISEASE,0.951024333635966,3,3,DIS_5705ec0e
+mobility impairment,mobility impairment,DISEASE,0.9508978128433228,1,1,DIS_8ee1b92b
+balance disturbance,balance disturbance,DISEASE,0.9508422613143921,1,1,DIS_b306bb92
+neurologic weakness,neurologic weakness,DISEASE,0.9502869844436646,1,1,DIS_e5ca384a
+respiratory distress,respiratory distress,DISEASE,0.9501652462141854,7,7,DIS_cd1a8e61
+orthopnea,orthopnea,DISEASE,0.9500792267474722,94,94,DIS_443c0742
+osteoarthritis,osteoarthritis,DISEASE,0.9498715779998086,11,11,DIS_fe3e10a1
+congestive failure,congestive heart failure,DISEASE,0.9491686920324961,6,6,DIS_60885e34
+iron deficiency,iron deficiency,DISEASE,0.9489481151103973,2,2,DIS_f9ae9b60
+psoriasis,psoriasis,DISEASE,0.9489231705665588,1,1,DIS_dafe94ce
+corneal ulcer,corneal ulcer,DISEASE,0.9487771987915039,1,1,DIS_3e649b0f
+xanthelasma,xanthelasma,DISEASE,0.948509931564331,1,1,DIS_b2986375
+tinnitus,tinnitus,DISEASE,0.9484219551086426,1,1,DIS_f14aeb93
+systemic sclerosis,systemic sclerosis,DISEASE,0.9483740329742432,1,1,DIS_257f4115
+cerebellar infarct,cerebellar infarct,DISEASE,0.9483626484870911,1,1,DIS_98e75036
+neuromuscular disorder,neuromuscular disorder,DISEASE,0.9482583999633789,1,1,DIS_b47f3f06
+diabetic eye disease,diabetic eye disease,DISEASE,0.9478548169136047,1,1,DIS_04cf8b6c
+speech delay,speech delay,DISEASE,0.9477760791778564,1,1,DIS_0cc3ea51
+retinal detachment,retinal detachment,DISEASE,0.9476531346638998,3,3,DIS_7c194a22
+hyperprolactinemia,hyperprolactinemia,DISEASE,0.947504997253418,1,1,DIS_b38f9e8c
+truncal ataxia,truncal ataxia,DISEASE,0.9472759962081909,1,1,DIS_50a99e48
+cognitive and motor dysfunction,cognitive and motor dysfunction,DISEASE,0.9472020864486694,1,1,DIS_7dd24166
+galactorrhea,galactorrhea,DISEASE,0.947117418050766,2,1,DIS_944d44b0
+gait disturbance,gait disturbance,DISEASE,0.9469262063503265,6,6,DIS_ac8de040
+oligomenorrhea,oligomenorrhea,DISEASE,0.9468677639961243,1,1,DIS_ede9eccd
+bradyphrenia,bradyphrenia,DISEASE,0.9464603066444397,1,1,DIS_d3223d66
+balance decline,balance decline,DISEASE,0.9462568759918213,1,1,DIS_f73585f0
+fibrotic lung disease,fibrotic lung disease,DISEASE,0.9460229873657227,1,1,DIS_54622f46
+celiac disease,celiac disease,DISEASE,0.945940375328064,1,1,DIS_3b5c21c6
+giant cell arteritis,giant cell arteritis,DISEASE,0.9457203845183054,18,18,DIS_4c3581ee
+language delay,language delay,DISEASE,0.945384681224823,1,1,DIS_8de951e6
+cognitive decline,cognitive decline,DISEASE,0.945294588804245,4,4,DIS_88ae1f8b
+focal segmental disease,focal segmental disease,DISEASE,0.9452705979347229,1,1,DIS_0b7de477
+bowel dysfunction,bowel dysfunction,DISEASE,0.9452095031738281,1,1,DIS_b5d981ed
+neuromuscular junction disease,neuromuscular junction disorder,DISEASE,0.9452056586742401,4,4,DIS_41301367
+conjunctivitis,conjunctivitis,DISEASE,0.9451056122779846,1,1,DIS_535a3e34
+diabetic peripheral neuropathy,diabetic peripheral neuropathy,DISEASE,0.9450431168079376,2,2,DIS_1500334d
+diabetic ketoacidosis,diabetic ketoacidosis,DISEASE,0.9449693163235983,3,3,DIS_d6df9d2d
+thyroid - associated orbitopathy,thyroid - associated orbitopathy,DISEASE,0.9448723793029785,1,1,DIS_a4ef7028
+bronchiectasis,bronchiectasis,DISEASE,0.9447966031730175,16,12,DIS_5904a7cd
+hearing difficulty,hearing difficulty,DISEASE,0.9447227716445923,1,1,DIS_0a379037
+pertussis,pertussis,DISEASE,0.9446304440498352,2,2,DIS_ef30bbb9
+pulmonary fibrosis,pulmonary fibrosis,DISEASE,0.944575659930706,16,16,DIS_d3805cb8
+hyposexuality,hyposexuality,DISEASE,0.9445466995239258,1,1,DIS_af61a14e
+dysdiadochokinesia,dysdiadochokinesia,DISEASE,0.9442952871322632,1,1,DIS_d6f93a73
+obstructive cardiomyopathy,obstructive cardiomyopathy,DISEASE,0.9442371129989624,1,1,DIS_db4bd27b
+laryngomalacia,laryngomalacia,DISEASE,0.944133460521698,1,1,DIS_7ef1bc21
+obstructive jaundice,obstructive jaundice,DISEASE,0.9439243078231812,1,1,DIS_806fb3df
+varicose veins,varicose veins,DISEASE,0.9439074993133545,1,1,DIS_42e8b858
+pulmonary infarction,pulmonary infarction,DISEASE,0.9438794314861297,10,10,DIS_5bd8b975
+celiac - related malabsorption,celiac - related malabsorption,DISEASE,0.9437049627304077,1,1,DIS_f78ccf60
+optic neuritis,optic neuritis,DISEASE,0.943663205419268,21,21,DIS_904b8533
+amblyopia,amblyopia,DISEASE,0.9436143636703491,1,1,DIS_c98d5da3
+neurodegenerative disease,neurodegenerative disease,DISEASE,0.9435453116893768,2,2,DIS_83eb1f13
+multiple sclerosis,multiple sclerosis,DISEASE,0.9433284103870392,4,4,DIS_c34a5401
+acute - on - chronic kidney injury,acute - on - chronic kidney injury,DISEASE,0.94280606508255,2,2,DIS_bf8d7bd5
+peptic ulcer,peptic ulcer,DISEASE,0.9427469372749329,1,1,DIS_e6f2e7da
+raynaud phenomenon,raynaud phenomenon,DISEASE,0.9426082968711853,1,1,DIS_911496b2
+cold intolerance,cold intolerance,DISEASE,0.9425978064537048,1,1,DIS_adcb9610
+heat intolerance,heat intolerance,DISEASE,0.942492887377739,16,16,DIS_5a15c6e6
+orbital inflammation,orbital inflammation,DISEASE,0.9424700736999512,1,1,DIS_791e8807
+fibrotic or bronchiectatic lung disease,fibrotic or bronchiectatic lung disease,DISEASE,0.9423643350601196,1,1,DIS_9cca4c79
+orthostatic hypotension,orthostatic hypotension,DISEASE,0.9422891139984131,2,2,DIS_cbf30fa1
+cerebrovascular leukoencephalopathy,cerebrovascular leukoencephalopathy,DISEASE,0.942266583442688,1,1,DIS_b6a7d846
+rhythm disturbance,rhythm disturbance,DISEASE,0.9418623447418213,1,1,DIS_d72efda7
+atrial fibrillation,atrial fibrillation,DISEASE,0.9418538682388536,33,30,DIS_55348448
+prostatic obstruction,prostatic obstruction,DISEASE,0.9417222738265991,1,1,DIS_a38ba4eb
+neck stiffness,neck stiffness,DISEASE,0.9417121467136201,21,21,DIS_2a48b987
+bppv,bppv,DISEASE,0.9414496421813965,1,1,DIS_31b1af91
+glucose intolerance,glucose intolerance,DISEASE,0.9413794875144958,3,3,DIS_ffeb9148
+arrhythmic syncope,arrhythmic syncope,DISEASE,0.9412832260131836,1,1,DIS_66496c19
+eosinophilic esophagitis,eosinophilic esophagitis,DISEASE,0.941105306148529,3,3,DIS_e033f9d2
+thymoma,thymoma,DISEASE,0.9410688281059265,2,2,DIS_be810982
+thromboembolic disease,thromboembolic disease,DISEASE,0.9410465289564693,17,17,DIS_1cae3741
+vocal cord dysfunction,vocal cord dysfunction,DISEASE,0.9409396251042684,3,3,DIS_00f8866a
+hyperacusis,hyperacusis,DISEASE,0.940919816493988,1,1,DIS_bbf4b4a7
+ankle edema,ankle edema,DISEASE,0.9407222867012024,5,5,DIS_8d707831
+orthostatic tachycardia,orthostatic tachycardia,DISEASE,0.9407042264938354,1,1,DIS_f61c1090
+gait disorder,gait disorder,DISEASE,0.940639853477478,1,1,DIS_222eac88
+hypercholesterolemia,hypercholesterolemia,DISEASE,0.9406382143497467,2,2,DIS_0e9c0885
+benign paroxysmal positional vertigo,benign paroxysmal positional vertigo,DISEASE,0.9404011964797974,1,1,DIS_282de6fe
+central serous chorioretinopathy,central serous chorioretinopathy,DISEASE,0.9403985738754272,2,2,DIS_119d41b2
+dysmetria,dysmetria,DISEASE,0.940352201461792,2,2,DIS_fbeccaa1
+autonomic dysfunction,autonomic dysfunction,DISEASE,0.9403216242790222,1,1,DIS_5646d595
+throat soreness,throat soreness,DISEASE,0.9402984380722046,1,1,DIS_324689f6
+aspiration - related pneumonia,aspiration - related pneumonia,DISEASE,0.9400503113865852,8,8,DIS_467eb106
+gallstone pancreatitis,gallstone pancreatitis,DISEASE,0.9400062561035156,1,1,DIS_b66cd96b
+hearing decline,hearing decline,DISEASE,0.9399920701980591,2,2,DIS_851b7292
+hematemesis,hematemesis,DISEASE,0.9398412162607367,11,11,DIS_98f0b77f
+organizing pneumonia,organizing pneumonia,DISEASE,0.9397023916244507,3,3,DIS_a0585b5c
+melena,melena,DISEASE,0.939639613032341,8,8,DIS_221baf65
+membranous nephropathy,membranous nephropathy,DISEASE,0.9390379190444946,1,1,DIS_932832b1
+cranial arteritis,cranial arteritis,DISEASE,0.9390196800231934,1,1,DIS_af78d4c1
+gait ataxia,gait apraxia,DISEASE,0.9388568997383118,2,2,DIS_1f8bb4d1
+aspiration pneumonia,aspiration pneumonia,DISEASE,0.9388215162537314,11,11,DIS_c7afb316
+dyschromatopsia,dyschromatopsia,DISEASE,0.9388118783632914,3,3,DIS_2312e615
+peripheral neuropathy,peripheral neuropathy,DISEASE,0.9387200623750687,4,4,DIS_880d3986
+heart failure,heart failure,DISEASE,0.9386270014863265,19,19,DIS_af2f442f
+esophageal motility disorder,esophageal motility disorder,DISEASE,0.9384016990661621,1,1,DIS_f42a52ff
+bell ’ s palsy,bell ’ s palsy,DISEASE,0.9379769563674927,1,1,DIS_f45a304c
+cortical atrophy,cortical atrophy,DISEASE,0.9377928078174591,4,4,DIS_e48fc98e
+halitosis,halitosis,DISEASE,0.9376704096794128,1,1,DIS_9b803364
+neuropathy,neuropathy,DISEASE,0.9375631213188171,1,1,DIS_cc84fd59
+temporal arteritis,temporal arteritis,DISEASE,0.9370948076248169,1,1,DIS_0b83aa83
+sensory loss,sensory loss,DISEASE,0.9369891285896301,11,11,DIS_b964993a
+biliary obstruction,biliary obstruction,DISEASE,0.9369164705276489,2,2,DIS_f182c31c
+hyperkalemia,hyperkalemia,DISEASE,0.9368804693222046,1,1,DIS_3c5fff0c
+clotting disorder,clotting disorder,DISEASE,0.9367694939885821,7,7,DIS_cf5dcce9
+connective tissue disease,connective - tissue disease,DISEASE,0.9367460012435913,2,2,DIS_698099ac
+cardiac abnormalities,cardiac abnormalities,DISEASE,0.9366415739059448,1,1,DIS_764437f1
+cardiac dysfunction,cardiac dysfunction,DISEASE,0.9366103410720825,1,1,DIS_502b9267
+aspiration - related infection,aspiration - related infection,DISEASE,0.9364532828330994,1,1,DIS_8b19b5a7
+brainstem - cerebellar dysfunction,brainstem - cerebellar dysfunction,DISEASE,0.9364505410194397,1,1,DIS_df864ccd
+chronic sensory peripheral neuropathy,chronic sensory peripheral neuropathy,DISEASE,0.9362686276435852,1,1,DIS_5d85c809
+hypothyroidism,hypothyroidism,DISEASE,0.9362606150763375,7,7,DIS_b9500d6b
+hematochezia,hematochezia,DISEASE,0.936233326792717,4,4,DIS_f94474ee
+dysuria,dysuria,DISEASE,0.9361930706284263,11,11,DIS_b2b40bf6
+thyroid disease,thyroid disease,DISEASE,0.9361862341562907,3,3,DIS_3cc99b42
+chronic thromboembolic disease,chronic thromboembolic disease,DISEASE,0.9358911216259003,2,2,DIS_f1b9af78
+bronchogenic carcinoma,bronchogenic carcinoma,DISEASE,0.9358506798744202,1,1,DIS_70a90b9a
+mobility - cognitive - urinary syndrome,mobility - cognitive - urinary syndrome,DISEASE,0.9358113408088684,1,1,DIS_d2b26956
+ankle sprain,ankle sprain,DISEASE,0.9356994330883026,2,2,DIS_17575744
+dyspepsia,dyspepsia,DISEASE,0.9356465737024943,3,2,DIS_7543c673
+vertigo,vertigo,DISEASE,0.9354965910315514,8,8,DIS_61d55e12
+gerd,gerd,DISEASE,0.9354761242866516,1,1,DIS_83fade83
+odynophagia,odynophagia,DISEASE,0.9354144334793091,5,5,DIS_10828f5b
+nasal congestion,nasal congestion,DISEASE,0.9352972065248797,31,31,DIS_e8718bee
+dysarthria,dysarthria,DISEASE,0.9351540446281433,10,10,DIS_e3d8817f
+benign prostatic hyperplasia,benign prostatic hyperplasia,DISEASE,0.9351393381754557,3,3,DIS_03fc7d0d
+chronic hypoxemic pulmonary hypertension,chronic thromboembolic pulmonary hypertension,DISEASE,0.9350425345557076,7,7,DIS_6a3067b1
+copd,copd,DISEASE,0.9348240642264338,101,73,DIS_463b4e12
+venous sinus thrombosis,venous sinus thrombosis,DISEASE,0.934800386428833,2,2,DIS_d7a65f00
+feeding intolerance,feeding intolerance,DISEASE,0.9345922827720642,5,5,DIS_ed1aebf2
+serous otitis media,serous otitis media,DISEASE,0.9343096613883972,1,1,DIS_617d18d1
+bleeding disorder,bleeding disorder,DISEASE,0.9341747760772705,9,9,DIS_951f13d4
+demyelinating lesion,demyelinating lesion,DISEASE,0.9341431856155396,1,1,DIS_aa54da74
+toxic multinodular goiter,toxic multinodular goiter,DISEASE,0.9339914321899414,1,1,DIS_29039d8c
+cardiac disease,cardiac disease,DISEASE,0.9338051761899676,7,7,DIS_345cc2e1
+pulmonary embolus,pulmonary embolism,DISEASE,0.9337499861447316,106,106,DIS_8abff868
+ischemic arteritis,ischemic arteritis,DISEASE,0.933611273765564,1,1,DIS_df268b2f
+tension headache,tension headache,DISEASE,0.933531641960144,1,1,DIS_e5e49717
+diastolic dysfunction,diastolic dysfunction,DISEASE,0.933486133813858,2,2,DIS_69606e24
+constipation,constipation,DISEASE,0.9333338737487793,3,3,DIS_d344d278
+barrett ’ s esophagus,barrett ’ s esophagus,DISEASE,0.9332815408706665,1,1,DIS_6fd23509
+functional loss,functional loss,DISEASE,0.9332313537597656,1,1,DIS_a006be3f
+chronic small - vessel vascular cognitive impairment,chronic small - vessel vascular cognitive impairment,DISEASE,0.9331089854240417,1,1,DIS_855716a8
+vascular gait disorder,vascular gait disorder,DISEASE,0.93306964635849,2,2,DIS_d8a0e117
+intracranial hypertension,intracranial hypertension,DISEASE,0.9329020977020264,2,2,DIS_b54462b9
+refractive error,refractive error,DISEASE,0.9327715635299683,1,1,DIS_25c974a4
+neck rigidity,neck rigidity,DISEASE,0.9327056407928467,1,1,DIS_6a709d82
+cholesteatoma,cholesteatoma,DISEASE,0.9325120449066162,1,1,DIS_14faf286
+infectious colitis,infectious colitis,DISEASE,0.9324989318847656,1,1,DIS_e6022ea3
+atopic dermatitis,atopic dermatitis,DISEASE,0.9324331945843167,18,18,DIS_357aa360
+hypertrophic pyloric stenosis,hypertrophic pyloric stenosis,DISEASE,0.932366669178009,1,1,DIS_d874825d
+obstructive sleep apnea,obstructive sleep apnea,DISEASE,0.9323526620864868,7,7,DIS_1dc7ff72
+congestive exacerbation,congestive exacerbation,DISEASE,0.9322903156280518,1,1,DIS_994429da
+sixth - nerve – type diplopia,sixth - nerve – type diplopia,DISEASE,0.9322492480278015,1,1,DIS_f125e8bd
+maternal hypothyroidism,maternal hypothyroidism,DISEASE,0.9321609735488892,1,1,DIS_40e6defa
+tension - type headaches,tension - type headaches,DISEASE,0.9321234822273254,2,2,DIS_b9fc8798
+carotid disease,carotid disease,DISEASE,0.9319655895233154,1,1,DIS_01237068
+cerebral venous thrombosis,cerebral venous thrombosis,DISEASE,0.9314193725585938,1,1,DIS_33c0afe4
+stiffness,stiffness,DISEASE,0.9312549829483032,1,1,DIS_282eaca4
+gait instability,gait instability,DISEASE,0.9312083898929128,57,57,DIS_338ea4db
+liver disease,liver disease,DISEASE,0.9310389757156372,1,1,DIS_69ee7391
+edema,edema,DISEASE,0.9306861907243729,4,4,DIS_9f8025fa
+mastoid inflammation,mastoid inflammation,DISEASE,0.930658221244812,1,1,DIS_ae73371f
+giant cell ( temporal ) arteritis,giant cell ( temporal ) arteritis,DISEASE,0.9305280248324076,3,3,DIS_bdc0aa03
+myalgic tenderness,myalgic tenderness,DISEASE,0.9305094480514526,1,1,DIS_4ab9f2f7
+otalgia,otalgia,DISEASE,0.930507704615593,4,4,DIS_73b869c8
+pneumothorax,pneumothorax,DISEASE,0.9303801655769348,1,1,DIS_fefaa55a
+ataxia,ataxia,DISEASE,0.930248349905014,2,2,DIS_cb5cb872
+knee osteoarthritis,knee osteoarthritis,DISEASE,0.9300703555345535,4,4,DIS_f1d407bf
+cardiopulmonary congestion,cardiopulmonary decompensation,DISEASE,0.9299483299255371,2,2,DIS_b90a5122
+chest pain,chest pain,DISEASE,0.9294614452019072,114,114,DIS_a7adaffd
+pulmonary neoplasm,pulmonary neoplasm,DISEASE,0.9292729496955872,1,1,DIS_566bb210
+aortic stenosis,aortic stenosis,DISEASE,0.9292676647504171,3,3,DIS_e6c2dd22
+frailty,frailty,DISEASE,0.9292654991149902,1,1,DIS_4d62eb6d
+coronary artery disease,coronary artery disease,DISEASE,0.9292268753051758,1,1,DIS_7b0b60c5
+syncope,syncope,DISEASE,0.9292216278472036,53,53,DIS_fa6ed851
+peripheral edema,peripheral edema,DISEASE,0.9290295392274857,12,12,DIS_1d938b09
+sinus congestion,sinus congestion,DISEASE,0.9289647340774536,1,1,DIS_203bc69c
+interstitial lung disease,interstitial lung disease,DISEASE,0.9289267185856315,34,34,DIS_7bda30de
+sensory numbness,sensory numbness,DISEASE,0.9288989305496216,1,1,DIS_65bdb110
+ciliary dysfunction,ciliary dysfunction,DISEASE,0.92842036485672,1,1,DIS_fabf99e3
+streptococcal pharyngitis,streptococcal pharyngitis,DISEASE,0.9283068776130676,1,1,DIS_a42b645e
+choledocholithiasis,choledocholithiasis,DISEASE,0.9282641609509786,3,3,DIS_629d13e6
+neurologic disorder,neurologic disorders,DISEASE,0.9276954829692841,2,2,DIS_bb543e30
+mouth ulcers,mouth ulcers,DISEASE,0.9275614023208618,1,1,DIS_37f1bb5c
+reactive airway exacerbation,reactive airways exacerbation,DISEASE,0.9275170117616653,4,4,DIS_f052f06c
+fatigable weakness,fatigable weakness,DISEASE,0.9273951649665833,1,1,DIS_b8d66c10
+neck weakness,neck weakness,DISEASE,0.9272098541259766,1,1,DIS_d6ccb2be
+orbital cellulitis,orbital cellulitis,DISEASE,0.926763117313385,1,1,DIS_3c44afe5
+congestive decompensation,congestive decompensation,DISEASE,0.9265540242195129,1,1,DIS_616f1fab
+viral or bacterial pneumonia,viral or bacterial pneumonia,DISEASE,0.9262839555740356,1,1,DIS_b83e9ae7
+balance loss,balance loss,DISEASE,0.9261249899864197,1,1,DIS_67239bf3
+autoimmune thyrotoxicosis,autoimmune thyrotoxicosis,DISEASE,0.9261173009872437,1,1,DIS_8b5901c5
+post - concussive headache,post - concussive headache,DISEASE,0.9260171055793762,1,1,DIS_c11c0fc2
+interstitial or neoplastic pulmonary process,interstitial or neoplastic pulmonary process,DISEASE,0.9258569478988647,1,1,DIS_24bd5ef1
+endocrine disease,endocrine disease,DISEASE,0.9256945848464966,1,1,DIS_74f4ef3e
+peripheral sensory neuropathy,peripheral sensory neuropathy,DISEASE,0.9255795478820801,1,1,DIS_fb7438ea
+otorrhea,otorrhea,DISEASE,0.925527811050415,3,3,DIS_37cd5538
+micropsia,micropsia,DISEASE,0.925180047750473,2,2,DIS_b5281185
+calf soreness,calf soreness,DISEASE,0.9251366853713989,1,1,DIS_735a0f9c
+nystagmus,nystagmus,DISEASE,0.9247112274169922,1,1,DIS_6b2a11b3
+shoulder girdle aching,shoulder girdle aching,DISEASE,0.9244138598442078,1,1,DIS_615298f5
+chronic pancreatitis,chronic pancreatitis,DISEASE,0.9243583232164383,4,4,DIS_1f4fb9e5
+infectious mononucleosis,infectious mononucleosis,DISEASE,0.924285352230072,1,1,DIS_da901b3e
+atrial arrhythmia,atrial arrhythmia,DISEASE,0.9242035150527954,2,2,DIS_5806159f
+polyuria,polyuria,DISEASE,0.9242009401321412,5,3,DIS_8fe9ee9d
+limb weakness,limb weakness,DISEASE,0.923991893018995,7,7,DIS_fc001803
+bronchitic infection,bronchitic infection,DISEASE,0.9239632884661356,3,3,DIS_2ec8552f
+hyperreflexia,hyperreflexia,DISEASE,0.9237493276596069,1,1,DIS_27af5c67
+cardiomyopathy,cardiomyopathy,DISEASE,0.9236254890759786,3,3,DIS_f685b39d
+neurologic disease,neurologic disease,DISEASE,0.9231880903244019,1,1,DIS_1618f72e
+sinusitis,sinusitis,DISEASE,0.9231051802635193,4,4,DIS_17fbe2f7
+autoimmune disorders,autoimmune disorders,DISEASE,0.9229936599731445,1,1,DIS_875f6b51
+covid - 19 infection,covid - 19 infection,DISEASE,0.9229592382907867,2,2,DIS_a99a5b18
+motility disorder,motility disorder,DISEASE,0.9228072166442871,1,1,DIS_c98915ba
+visual disturbance,visual disturbance,DISEASE,0.9227588517325265,7,7,DIS_862f83eb
+autonomic bladder symptoms,autonomic bladder symptoms,DISEASE,0.9226237535476685,2,2,DIS_bb1c76ef
+meniere - like attacks,meniere - like attacks,DISEASE,0.9225284457206726,1,1,DIS_fe98594f
+congenital cardiac disease,congenital cardiac disease,DISEASE,0.9224913716316223,1,1,DIS_381b15dd
+right - sided heart failure,right - sided heart failure,DISEASE,0.9218295216560364,1,1,DIS_5a9d8381
+ophthalmopathy,ophthalmopathy,DISEASE,0.9217572212219238,1,1,DIS_056a0cc6
+urinary retention,urinary retention,DISEASE,0.9214054048061371,2,2,DIS_15742a05
+truncal instability,truncal instability,DISEASE,0.9213630557060242,1,1,DIS_a81ede0b
+nonischemic cardiomyopathy,nonischemic cardiomyopathy,DISEASE,0.9213213920593262,1,1,DIS_09e32483
+obstructive lung disease,chronic obstructive lung disease,DISEASE,0.9210250079631805,4,4,DIS_ee5d1cf0
+muscle weakness,muscle weakness,DISEASE,0.920874834060669,2,2,DIS_5abc123b
+gastric outlet obstruction,gastric outlet obstruction,DISEASE,0.92046639919281,5,5,DIS_eb166237
+choroidal neovascularization,choroidal neovascularization,DISEASE,0.9201189279556274,1,1,DIS_4f3d56e4
+chronic back discomfort,chronic back discomfort,DISEASE,0.9199817776679993,1,1,DIS_716de4bb
+gait difficulty,gait difficulty,DISEASE,0.9199342727661133,6,6,DIS_7483b4a4
+upper airway obstruction,upper airway obstruction,DISEASE,0.9199280738830566,1,1,DIS_28f9a435
+chronic lumbar spondylosis,chronic lumbar spondylosis,DISEASE,0.919842541217804,1,1,DIS_1c910d98
+stenosis,stenosis,DISEASE,0.9198023080825806,1,1,DIS_c15e0082
+eczema,eczema,DISEASE,0.9196297195222642,9,9,DIS_b1a2912c
+oliguria,oliguria,DISEASE,0.9195115566253662,1,1,DIS_a576b624
+gastric neoplasm,gastric neoplasm,DISEASE,0.9194775223731995,1,1,DIS_5985930e
+deep vein thrombosis,deep venous thrombosis,DISEASE,0.9192940120895704,48,48,DIS_2c9f7fbd
+calf tightness,calf tightness,DISEASE,0.9191629886627197,1,1,DIS_e26b2c4f
+cognitive impairment,cognitive impairment,DISEASE,0.9191430807113647,3,3,DIS_c66697a0
+ethmoid sinusitis,ethmoid sinusitis,DISEASE,0.9191222190856934,1,1,DIS_645f8078
+mastoiditis,mastoiditis,DISEASE,0.9189757108688354,2,2,DIS_31d0f0fc
+inflammatory demyelination,inflammatory demyelination,DISEASE,0.9189562797546387,1,1,DIS_4edb69ea
+neurodegenerative parkinsonian syndrome,neurodegenerative parkinsonian syndrome,DISEASE,0.9189391136169434,1,1,DIS_ffc06b6b
+aspiration - related lower respiratory infection,aspiration - related lower respiratory infection,DISEASE,0.9188985824584961,1,1,DIS_2466ffe3
+small ‑ vessel cognitive impairment,small ‑ vessel cognitive impairment,DISEASE,0.9188941121101379,1,1,DIS_13d3a349
+sleep - disordered breathing,sleep - disordered breathing,DISEASE,0.9188584685325623,2,2,DIS_04e076a6
+hypoalbuminemia,hypoalbuminemia,DISEASE,0.9188266396522522,1,1,DIS_86abe552
+systemic autoimmune disease,systemic autoimmune disease,DISEASE,0.9186310172080994,1,1,DIS_d9f0db7c
+asthma - related bronchospasm,asthma - related bronchospasm,DISEASE,0.9186144471168518,1,1,DIS_1cd818a2
+coagulation disorders,coagulation disorders,DISEASE,0.9183002710342407,1,1,DIS_be0b6701
+adenoid hypertrophy,adenoid hypertrophy,DISEASE,0.918278694152832,1,1,DIS_55dd2c06
+diastolic heart failure,chronic diastolic heart failure,DISEASE,0.9182639420032501,2,2,DIS_a0ebed91
+chronic suppurative otitis media,chronic suppurative otitis media,DISEASE,0.9180851578712463,1,1,DIS_b33a9477
+presyncope,presyncope,DISEASE,0.9179709951082865,3,3,DIS_242e3633
+paroxysmal nocturnal dyspnea,paroxysmal nocturnal dyspnea,DISEASE,0.9179569171822589,23,23,DIS_564713b7
+airways hyperreactivity,airways hyperreactivity,DISEASE,0.9179109930992126,1,1,DIS_3d4d949f
+reactive airway symptoms,reactive airway symptoms,DISEASE,0.9178617596626282,1,1,DIS_1972f07a
+coagulopathy,coagulopathy,DISEASE,0.917787512143453,3,3,DIS_6bd96838
+aspiration - related bronchitis,aspiration - related pneumonitis,DISEASE,0.9176797270774841,2,2,DIS_1a4fbf74
+swallowing difficulty,swallowing difficulty,DISEASE,0.9175978899002075,1,1,DIS_3579dd7f
+ear pain,ear pain,DISEASE,0.9175866484642029,5,5,DIS_c39a5c09
+allergic rhinitis,allergic rhinitis,DISEASE,0.9172932108243307,3,3,DIS_f7278dd9
+exertional intolerance,exertional intolerance,DISEASE,0.9170348644256592,1,1,DIS_10a22947
+right - hand coordination difficulty,right - hand coordination difficulty,DISEASE,0.9170249700546265,1,1,DIS_c0f8ab9a
+peptic pathology,peptic pathology,DISEASE,0.9169669151306152,1,1,DIS_4c0bf5f1
+chronic pulmonary vascular disease,chronic pulmonary vascular disease,DISEASE,0.9169392585754395,1,1,DIS_b7ece391
+inflammatory uveitis,inflammatory uveitis,DISEASE,0.9168721437454224,1,1,DIS_0539ade7
+malabsorption,malabsorption,DISEASE,0.9167869448661804,5,5,DIS_970a0717
+chronic low back pain,chronic low back pain,DISEASE,0.9166479110717773,1,1,DIS_051b9739
+anterior ischemic optic neuropathy,arteritic ischemic optic neuropathy,DISEASE,0.9166267684527806,7,7,DIS_f1cb0019
+sore throat,sore throat,DISEASE,0.916400117178758,24,24,DIS_093ce65d
+age - related macular degeneration,age - related macular degeneration,DISEASE,0.9162559253828866,7,7,DIS_0ca95a99
+retinal disease,retinal disease,DISEASE,0.9161142110824585,1,1,DIS_4d19d97f
+nasal regurgitation,nasal regurgitation,DISEASE,0.915857195854187,2,2,DIS_46a01274
+biliary colic,biliary colic,DISEASE,0.9158466339111329,5,5,DIS_c6e3e02e
+tympanic membrane perforation,tympanic membrane perforation,DISEASE,0.9158294796943665,1,1,DIS_9da9105b
+bronchospasm,bronchospasm,DISEASE,0.9158270955085754,3,3,DIS_a34dc854
+pitting edema of the ankles,pitting edema of the ankles,DISEASE,0.9157380163669586,2,2,DIS_40ced749
+ocular and bulbar weakness,ocular and bulbar weakness,DISEASE,0.9156555831432343,2,2,DIS_4aded64f
+autoimmune cholangiopathy,autoimmune cholangiopathy,DISEASE,0.9156526327133179,1,1,DIS_6f2b960f
+ischemic optic neuropathy,ischemic optic neuropathy,DISEASE,0.9155398173765703,11,11,DIS_beed583e
+chronic obstructive lung disease,chronic obstructive pulmonary disease,DISEASE,0.9154329080330698,19,19,DIS_901425ca
+inherited cardiomyopathy,inherited cardiomyopathy,DISEASE,0.9152653217315674,1,1,DIS_434bfbd5
+bacterial pneumonia,bacterial pneumonia,DISEASE,0.9151893854141235,2,2,DIS_51e1288a
+structural cardiomyopathy,structural cardiomyopathy,DISEASE,0.9151245355606079,1,1,DIS_05f9e42a
+tachypnea,tachypnea,DISEASE,0.9150841236114502,17,17,DIS_cf48be56
+bowel ischemia,bowel ischemia,DISEASE,0.9150037169456482,1,1,DIS_ba209593
+transverse myelitis,transverse myelitis,DISEASE,0.9149090945720673,2,2,DIS_ea267586
+migraine,migraine,DISEASE,0.914844294389089,24,24,DIS_ac4c1253
+obesity,obesity,DISEASE,0.9145838737487793,5,5,DIS_c36f1acd
+parapneumonic effusion,parapneumonic effusion,DISEASE,0.9143276214599609,1,1,DIS_d665f906
+perioral eczema,perioral eczema,DISEASE,0.9142916202545166,1,1,DIS_5e3feb03
+varicella,varicella,DISEASE,0.91416797041893,2,2,DIS_6896d217
+degenerative gait disorder,neurodegenerative gait disorder,DISEASE,0.9139165282249451,2,2,DIS_f3b55048
+bleb - related collapse,bleb - related collapse,DISEASE,0.9139129519462585,1,1,DIS_4c4f3254
+urinary incontinence,urinary incontinence,DISEASE,0.9139089584350586,1,1,DIS_84eee1f8
+oscillopsia,oscillopsia,DISEASE,0.9137834012508392,2,2,DIS_51c13024
+optic disc edema,optic disc edema,DISEASE,0.9136235862970352,4,4,DIS_7196f859
+venous thromboembolism,venous thromboembolism,DISEASE,0.9134389758110046,9,9,DIS_23f31198
+subretinal hemorrhage,subretinal hemorrhage,DISEASE,0.9132639765739441,2,2,DIS_417ba022
+connective tissue – related interstitial lung disease,connective tissue – related interstitial lung disease,DISEASE,0.9132176041603088,2,2,DIS_297f355a
+balance problems,balance problems,DISEASE,0.9131603240966797,1,1,DIS_ec15cddf
+chronic interstitial lung disease,chronic interstitial lung disease,DISEASE,0.9129928946495056,10,10,DIS_f5383ba1
+oropharyngeal dysphagia,oropharyngeal dysphagia,DISEASE,0.9128921627998352,11,11,DIS_5f55df52
+reactive airway disease,reactive airways disease,DISEASE,0.912867859005928,8,8,DIS_f3dcb6be
+autoimmune thyroid disease,autoimmune thyroid disease,DISEASE,0.9127771920628018,9,9,DIS_a687aa34
+chronic postprandial pain,chronic postprandial pain,DISEASE,0.9126266837120056,1,1,DIS_3127dc0a
+atopic asthma,atopic asthma,DISEASE,0.9125270247459412,2,2,DIS_879eafc4
+menstrual cramps,menstrual cramps,DISEASE,0.9125202894210815,1,1,DIS_cd290572
+pulmonary disease,cardiopulmonary disease,DISEASE,0.9124302615722021,12,12,DIS_e7d6c029
+diarrhea,diarrhea,DISEASE,0.9122618436813354,1,1,DIS_6f2e57be
+inflammatory myopathy,inflammatory myopathy,DISEASE,0.9121214300394058,4,4,DIS_4b9b0548
+delirium,delirium,DISEASE,0.911843940615654,4,4,DIS_084e6a69
+inflammatory bowel disease,inflammatory bowel disease,DISEASE,0.9113034208615621,3,3,DIS_c5248e1c
+autoimmune thyroid condition,autoimmune thyroid condition,DISEASE,0.9111906886100769,1,1,DIS_dcc3429e
+systemic malaise,systemic malaise,DISEASE,0.911180853843689,1,1,DIS_c25b7977
+cardiopulmonary disease,cardiopulmonary disease,DISEASE,0.9109578866225022,13,13,DIS_e7d6c029
+subacute thyroiditis,subacute thyroiditis,DISEASE,0.9105508327484131,1,1,DIS_472e9700
+aspiration - related lung injury,chronic aspiration - related lung injury,DISEASE,0.9105441570281982,2,2,DIS_914b9fed
+primary biliary cholangitis,primary biliary cholangitis,DISEASE,0.910363495349884,1,1,DIS_28b65221
+neck discomfort,neck discomfort,DISEASE,0.9103063941001892,1,1,DIS_6a91518d
+hypersensitivity pneumonitis,chronic hypersensitivity pneumonitis,DISEASE,0.9102117915948232,6,6,DIS_ee18aa94
+chest discomfort,chest discomfort,DISEASE,0.9101617932319641,1,1,DIS_de4ce632
+tremulousness,tremulousness,DISEASE,0.910041332244873,1,1,DIS_a0c5049c
+proptosis,proptosis,DISEASE,0.9097177684307098,4,4,DIS_0ab15740
+infectious or thromboembolic pulmonary disease,infectious or thromboembolic pulmonary disease,DISEASE,0.9096195101737976,1,1,DIS_97da2eb2
+leg dvt,leg dvt,DISEASE,0.9093471765518188,1,1,DIS_f422a274
+conductive hearing loss,conductive hearing loss,DISEASE,0.9092270731925964,1,1,DIS_e13cb9b7
+embolic disease,metabolic disease,DISEASE,0.9091479182243347,2,2,DIS_7e866ee1
+respiratory decline,respiratory decline,DISEASE,0.9091466665267944,1,1,DIS_48f2ac3a
+lumbar spinal stenosis,lumbar spinal stenosis,DISEASE,0.9088985025882721,2,2,DIS_3911f8b8
+hoarseness,hoarseness,DISEASE,0.9087940369333539,7,7,DIS_aff828c9
+reactive airways inflammation,reactive airways inflammation,DISEASE,0.9087448120117188,1,1,DIS_805ca880
+clot,clot,DISEASE,0.9086853861808777,1,1,DIS_da2afac8
+lumbar spondylosis,lumbar spondylosis,DISEASE,0.9085181951522827,1,1,DIS_4cd8f8c2
+postinfectious inflammatory neuropathy,postinfectious inflammatory neuropathy,DISEASE,0.9083639979362488,1,1,DIS_6b30006b
+back pain,back pain,DISEASE,0.9083101749420166,2,2,DIS_bbdb9e2a
+infectious bronchitis,infectious bronchitis,DISEASE,0.9081310033798218,2,2,DIS_54b6e4b2
+carotid stenosis,carotid stenosis,DISEASE,0.9079314470291138,1,1,DIS_077a006b
+chest cold,chest cold,DISEASE,0.9078838229179382,1,1,DIS_d9bb48ed
+cardiac decompensation,cardiac decompensation,DISEASE,0.9078627228736877,2,2,DIS_1f7ab1f7
+diabetes,diabetes,DISEASE,0.9078387916088104,6,6,DIS_69cd315f
+vascular cognitive impairment,vascular cognitive impairment,DISEASE,0.9077747762203217,4,4,DIS_37bfbed8
+diaphoresis,diaphoresis,DISEASE,0.9077721387147903,4,4,DIS_933510e6
+type 1 diabetes,type 2 diabetes,DISEASE,0.9076682262950473,9,9,DIS_50e71e24
+acute - on - chronic lower respiratory infection,acute - on - chronic lower respiratory infection,DISEASE,0.9075455069541931,1,1,DIS_734a68dd
+visual change,visual change,DISEASE,0.9074523448944092,5,5,DIS_06edfd0b
+chronic kidney disease,chronic kidney disease,DISEASE,0.9074323892593383,5,5,DIS_fde291a9
+pulmonary hypertension,pulmonary hypertension,DISEASE,0.907387373122302,22,22,DIS_dfab8c54
+lhermitte phenomenon,lhermitte phenomenon,DISEASE,0.9073865513006846,6,6,DIS_ddeafcb5
+hypoxemic respiratory compromise,hypoxemic respiratory compromise,DISEASE,0.9072206020355225,2,2,DIS_f81d7dfa
+atrophy,atrophy,DISEASE,0.9071534276008606,2,2,DIS_b5217a1d
+vertebral artery dissection,vertebral artery dissection,DISEASE,0.907135397195816,2,2,DIS_a6b2fae1
+visual compromise,visual compromise,DISEASE,0.9071120023727417,1,1,DIS_92511c4c
+joint swelling,joint swelling,DISEASE,0.906655877828598,4,4,DIS_08711aee
+biliary or pancreatic pathology,biliary or pancreatic pathology,DISEASE,0.9065307378768921,1,1,DIS_30a55a93
+vomiting,vomiting,DISEASE,0.9060600570269993,14,14,DIS_81042728
+infarction,infarction,DISEASE,0.9060253500938416,1,1,DIS_54ce0b7d
+chronic ear disease,chronic airway disease,DISEASE,0.905692974726359,6,6,DIS_4599fb7c
+diplopia,diplopia,DISEASE,0.9054055261611939,25,25,DIS_ea8c4fb8
+chronic neurologic disease,chronic neurologic disease,DISEASE,0.9053328037261963,1,1,DIS_29e05188
+leg swelling,leg swelling,DISEASE,0.9052843716409471,27,27,DIS_d1d7a142
+mobility decline,mobility decline,DISEASE,0.9051380157470703,1,1,DIS_84888ea1
+viral pneumonia,viral pneumonia,DISEASE,0.9048588275909424,1,1,DIS_10b2b69b
+asthma,asthma,DISEASE,0.9048122717784002,26,25,DIS_e1fbb9a6
+calf pain,calf pain,DISEASE,0.9047772188981374,6,6,DIS_ece5502a
+limb numbness,limb numbness,DISEASE,0.9045870900154114,3,3,DIS_880de650
+bronchitis,bronchitis,DISEASE,0.9043648413249424,14,14,DIS_58cbc625
+gallstone - related pancreatitis,gallstone - related pancreatitis,DISEASE,0.904295802116394,1,1,DIS_4936e4a8
+holocranial headache,holocranial headache,DISEASE,0.9042114019393921,1,1,DIS_038a3ace
+rhinorrhea,rhinorrhea,DISEASE,0.9040734508763189,23,23,DIS_9afc3673
+functional dyspepsia,functional dyspepsia,DISEASE,0.9039555788040161,1,1,DIS_6449c2c8
+chronic cough,chronic cough,DISEASE,0.9036886692047119,1,1,DIS_85c5a704
+post - concussive vestibular dysfunction,post - concussive vestibular dysfunction,DISEASE,0.9036595225334167,1,1,DIS_edbb5f21
+balance and cognitive decline,balance and cognitive decline,DISEASE,0.9035789966583252,1,1,DIS_edd8f1e7
+central retinal artery occlusion,central retinal artery occlusion,DISEASE,0.9029750227928162,2,2,DIS_9be34fe6
+lobar pneumonia,lobar pneumonia,DISEASE,0.9025894999504089,1,1,DIS_ea9a71cb
+irritability,irritability,DISEASE,0.9025182127952576,1,1,DIS_e535219f
+communicating hydrocephalus,communicating hydrocephalus,DISEASE,0.9025180339813232,1,1,DIS_067e3f88
+left hemispheric ischemia,left hemispheric ischemia,DISEASE,0.9024872779846191,1,1,DIS_819b650d
+posterior circulation ischemia,posterior circulation ischemia,DISEASE,0.9019757509231567,2,2,DIS_749fe9f7
+focal limb weakness,focal limb weakness,DISEASE,0.9017644166946411,15,15,DIS_c51bb447
+chronic lung disease,chronic lung disease,DISEASE,0.9017611861228942,25,25,DIS_0db60a4e
+executive dysfunction,executive dysfunction,DISEASE,0.9016004800796509,2,2,DIS_3645728c
+anterior uveitis,anterior uveitis,DISEASE,0.9013129770755768,2,2,DIS_a61ff321
+horizontal abduction deficit,horizontal abduction deficit,DISEASE,0.901187002658844,1,1,DIS_e927c779
+jaundice,jaundice,DISEASE,0.9010008232934135,7,7,DIS_3e731b5b
+dry eye,dry eye,DISEASE,0.9008761048316956,2,2,DIS_fe4ba287
+cognitive change,cognitive change,DISEASE,0.9008687734603882,1,1,DIS_3acf5d85
+ascending cholangitis,ascending cholangitis,DISEASE,0.9001646041870117,2,2,DIS_b9ff81b9
+vision impairment,vision impairment,DISEASE,0.9000632762908936,1,1,DIS_5c064a3c
+perianal discomfort,perianal discomfort,DISEASE,0.899752140045166,1,1,DIS_f0a68ffe
+hemoptysis,hemoptysis,DISEASE,0.8995264840848518,231,216,DIS_86818da5
+right shoulder discomfort,right shoulder discomfort,DISEASE,0.8993958830833435,1,1,DIS_dd4ffdce
+urinary urgency,urinary urgency,DISEASE,0.8992770739964077,70,69,DIS_0e78efe2
+anemia,anemia,DISEASE,0.8991697728633881,2,2,DIS_5e9b5639
+chronic bronchitic,chronic bronchitic cough,DISEASE,0.8987649798393249,5,5,DIS_c49a8406
+bronchitic illness,bronchitic illness,DISEASE,0.8986762364705404,15,15,DIS_5c275b45
+post - infectious small - airways disease,post - infectious small - airways disease,DISEASE,0.8986490368843079,1,1,DIS_ed17efcb
+acid regurgitation,acid regurgitation,DISEASE,0.8984903693199158,1,1,DIS_f3fbdf94
+right upper lobe neoplasm,right upper lobe neoplasm,DISEASE,0.8983575701713562,1,1,DIS_2764c2f0
+postinfectious organizing pneumonia,postinfectious organizing pneumonia,DISEASE,0.898332417011261,1,1,DIS_ecc5cadb
+metamorphopsia,metamorphopsia,DISEASE,0.8981904238462448,12,12,DIS_7f92bd2f
+gastroesophageal reflux,chronic gastroesophageal reflux,DISEASE,0.8980257511138916,4,4,DIS_4deed015
+jaw claudication,jaw claudication,DISEASE,0.897973465568879,34,33,DIS_7032503d
+acute pancreatitis,acute pancreatitis,DISEASE,0.8978835344314575,1,1,DIS_1bf53161
+urinary complaints,urinary complaints,DISEASE,0.8975898027420044,1,1,DIS_1d480a0d
+physiologic jaundice,physiologic jaundice,DISEASE,0.8975430727005005,1,1,DIS_6759321f
+sinus infection,sinus infection,DISEASE,0.8974307907952203,9,9,DIS_93435725
+ramsey hunt,ramsey hunt,DISEASE,0.8971691727638245,1,1,DIS_fe86adb2
+pallor,pallor,DISEASE,0.8969518343607584,6,6,DIS_213da7e0
+rash,rash,DISEASE,0.8969511489073435,12,12,DIS_e926604f
+pleuritic positional chest discomfort,pleuritic positional chest discomfort,DISEASE,0.8968247175216675,1,1,DIS_067318bd
+finger clubbing,finger clubbing,DISEASE,0.8966988325119019,11,11,DIS_7a65c742
+cataracts,cataracts,DISEASE,0.8966883420944214,1,1,DIS_033cfecf
+viral cold,viral cold,DISEASE,0.8965914845466614,1,1,DIS_d7e14636
+inflammatory myelopathy,inflammatory enteropathy,DISEASE,0.8964976966381073,2,2,DIS_37cc4900
+visual loss,visual loss,DISEASE,0.8962796628475189,14,14,DIS_00b97b29
+congestive symptoms,congestive symptoms,DISEASE,0.8962472677230835,1,1,DIS_fb5e9acb
+hypoxic respiratory failure,hypoxemic respiratory failure,DISEASE,0.8960389296213785,3,3,DIS_a46de5fc
+acanthamoeba infection,acanthamoeba infection,DISEASE,0.8959248065948486,1,1,DIS_5f507f61
+pressure - type headaches,pressure - type headaches,DISEASE,0.8958484530448914,1,1,DIS_18f39a34
+focal motor seizure,focal motor seizure,DISEASE,0.8956371545791626,2,2,DIS_059a8f1e
+viral syndrome,viral syndrome,DISEASE,0.895437479019165,1,1,DIS_a45ed42d
+bleeding,bleeding,DISEASE,0.8953531980514526,1,1,DIS_41f62fc3
+lumbar strain,lumbar strain,DISEASE,0.8952871561050415,1,1,DIS_201f4380
+hypoxia - related dyspnea,hypoxia - related dyspnea,DISEASE,0.8952652215957642,1,1,DIS_99fa879a
+lung malignancy,lung malignancy,DISEASE,0.8951984643936157,1,1,DIS_cb03fd61
+colicky pain,colicky pain,DISEASE,0.8951894044876099,1,1,DIS_32d0ac5e
+imbalance,imbalance,DISEASE,0.8951720436414082,15,15,DIS_2a4537b3
+peripheral vertigo,peripheral vertigo,DISEASE,0.8950939178466797,1,1,DIS_c789f321
+arterial occlusion,arterial occlusion,DISEASE,0.8950787782669067,1,1,DIS_9cc596a5
+ischemic optic process,ischemic optic process,DISEASE,0.8949721256891886,3,3,DIS_1babeb9c
+facial nerve palsy,facial nerve palsy,DISEASE,0.8949697613716125,1,1,DIS_f5f11138
+peritonsillar abscess,peritonsillar abscess,DISEASE,0.8949252665042877,2,2,DIS_d776c54a
+lung disease,lung disease,DISEASE,0.8946072578430175,10,10,DIS_f60e04f9
+shallow serous macular detachment,shallow serous macular detachment,DISEASE,0.8945717811584473,1,1,DIS_64df7baf
+interstitial or postinfectious pulmonary process,interstitial or postinfectious pulmonary process,DISEASE,0.894100546836853,1,1,DIS_2070524f
+pancreatic or biliary pathology,pancreatic or biliary pathology,DISEASE,0.8938149213790894,1,1,DIS_dc42235c
+traction bronchiectasis,traction bronchiectasis,DISEASE,0.8936290144920349,2,2,DIS_0d3f47c3
+aphasia,aphasia,DISEASE,0.8935040235519409,1,1,DIS_979b8487
+infectious pneumonia,infectious pneumonia,DISEASE,0.8933159283229283,7,7,DIS_2751c5ed
+nuchal erythema,nuchal erythema,DISEASE,0.8931288719177246,1,1,DIS_00fcc8bd
+carotid atherosclerotic disease,carotid atherosclerotic disease,DISEASE,0.8931273818016052,1,1,DIS_52d4774c
+pleuritic inflammation,pleuritic inflammation,DISEASE,0.8924678564071655,1,1,DIS_29f44858
+rhinorrheal illness,rhinorrheal illness,DISEASE,0.8924635648727417,1,1,DIS_b07e61a6
+speech deficits,speech deficits,DISEASE,0.892361581325531,1,1,DIS_3577fc7b
+obstruction,obstruction,DISEASE,0.8923507332801819,1,1,DIS_e89d2bfe
+vision decline,vision decline,DISEASE,0.8923197388648987,4,4,DIS_b8f217bb
+postural instability,postural instability,DISEASE,0.8921828866004944,3,3,DIS_0d6d518a
+dysphagia,dysphagia,DISEASE,0.8921237866083781,15,14,DIS_4f878a04
+headache,headache,DISEASE,0.8920574699129377,42,40,DIS_247fd755
+focal weakness,focal weakness,DISEASE,0.8920272123068571,32,32,DIS_368d61cd
+hyperlipidemia,hyperlipidemia,DISEASE,0.8919550424272363,22,22,DIS_5fc90dc7
+polydipsia,polydipsia,DISEASE,0.8919495344161987,3,3,DIS_7719d165
+exertional syncope,exertional syncope,DISEASE,0.8918794989585876,2,2,DIS_e6e45de9
+pulmonary vascular process,pulmonary vascular process,DISEASE,0.8916599154472351,1,1,DIS_dbcc474e
+prostatism,prostatism,DISEASE,0.8916115760803223,1,1,DIS_ec463fd7
+joint pain,joint pain,DISEASE,0.8912021517753601,1,1,DIS_506423ee
+cognitive slowing,cognitive slowing,DISEASE,0.8904427289962769,21,21,DIS_2a08805d
+dehydration,dehydration,DISEASE,0.8901760624005244,13,12,DIS_2aaea114
+ulcer - related gastric outlet obstruction,ulcer - related gastric outlet obstruction,DISEASE,0.8901485800743103,1,1,DIS_e10d2123
+idiopathic pulmonary fibrosis,idiopathic pulmonary fibrosis,DISEASE,0.8901259203751882,18,18,DIS_3724da22
+eye pain,eye pain,DISEASE,0.8900198681013924,7,7,DIS_c6643e36
+gastric malignancy,gastric malignancy,DISEASE,0.8898998498916626,1,1,DIS_ac75e7ee
+focal ischemia,focal ischemia,DISEASE,0.889798641204834,1,1,DIS_c2bcc5e6
+heartburn,heartburn,DISEASE,0.8896923363208771,10,10,DIS_830a8f53
+anorexia,anorexia,DISEASE,0.8894848674535751,4,4,DIS_097a5486
+leg pain,leg pain,DISEASE,0.8894192576408386,2,2,DIS_72623da9
+vision blurring,vision blurring,DISEASE,0.8892862796783447,1,1,DIS_0ca1ef5b
+embolic stroke,embolic stroke,DISEASE,0.8892236948013306,2,2,DIS_45e5cd78
+emesis,emesis,DISEASE,0.8891265771605752,11,11,DIS_9c072d20
+thrombophilia,thrombophilia,DISEASE,0.8890265822410583,1,1,DIS_d5075cd2
+insomnia,insomnia,DISEASE,0.888944074511528,4,4,DIS_f518c491
+thyrotoxic,thyrotoxic,DISEASE,0.8886924187342325,3,3,DIS_dca1cea6
+exercise intolerance,exercise intolerance,DISEASE,0.888575961192449,6,6,DIS_d7f0f140
+rapd,rapd,DISEASE,0.8885501623153687,1,1,DIS_6f8fa82c
+posterior vitreous detachment,posterior vitreous detachment,DISEASE,0.8881798386573792,2,2,DIS_1e040c77
+neck bruit,neck bruit,DISEASE,0.8881199955940247,1,1,DIS_3a058bd7
+carotid artery dissection,carotid artery dissection,DISEASE,0.8880308270454407,1,1,DIS_771996eb
+expressive language impairment,expressive language impairment,DISEASE,0.8875081539154053,1,1,DIS_8d937e48
+chronic subdural hematoma,chronic subdural hematoma,DISEASE,0.8874326348304749,1,1,DIS_6665eac4
+right - heart strain,right - heart strain,DISEASE,0.8872058490912119,6,6,DIS_2e56cc7a
+bradykinesia,bradykinesia,DISEASE,0.8870447278022766,1,1,DIS_ba527bdf
+left cervical arterial dissection,left cervical arterial dissection,DISEASE,0.887007474899292,1,1,DIS_9ddee51f
+skin rash,skin rash,DISEASE,0.8869999796152115,4,4,DIS_3ea8be8d
+optic disc blurring,optic disc blurring,DISEASE,0.8868266940116882,1,1,DIS_e9de24ed
+cerebellar dysfunction,cerebellar dysfunction,DISEASE,0.8867691159248352,1,1,DIS_4d042716
+anxiety,anxiety,DISEASE,0.886681541800499,4,4,DIS_dd78ab0d
+palpitations,palpitations,DISEASE,0.8866662818651933,182,177,DIS_e936602a
+chronic pulmonary process,chronic pulmonary fibrosis,DISEASE,0.8860689103603363,2,2,DIS_bd2fc4b6
+hypoxic delirium,hypoxic delirium,DISEASE,0.8855751156806946,1,1,DIS_5dbdb274
+pulmonary compromise,pulmonary compromise,DISEASE,0.8854464888572693,1,1,DIS_7bffc0ca
+infection,infection,DISEASE,0.8851969838142395,1,1,DIS_c2a07b1c
+optic neuropathy,optic neuropathy,DISEASE,0.8848634362220764,2,2,DIS_2f147084
+upper gi pathology,upper gi pathology,DISEASE,0.884803056716919,1,1,DIS_9979722d
+interstitial lung process,interstitial lung process,DISEASE,0.8847638169924418,12,12,DIS_2544b1b4
+viral bronchitis,viral bronchiolitis,DISEASE,0.8845069578715733,14,14,DIS_976239cf
+vision loss,vision loss,DISEASE,0.8845032012980917,23,21,DIS_723d674f
+seasonal bronchitis,seasonal bronchitis,DISEASE,0.8838685750961304,1,1,DIS_42268f21
+vascular occlusion,vascular occlusion,DISEASE,0.8836155533790588,1,1,DIS_30e03beb
+chronic heartburn,chronic heartburn,DISEASE,0.8833227157592773,2,2,DIS_f3c00c8a
+pruritus,pruritus,DISEASE,0.8833169937133789,1,1,DIS_357f65f8
+spinning vertigo,spinning vertigo,DISEASE,0.8832165201505026,3,3,DIS_cfdaeffe
+horizontal nystagmus,horizontal nystagmus,DISEASE,0.8832027167081833,4,4,DIS_6a3cfd15
+functional abdominal pain disorder,functional abdominal pain disorder,DISEASE,0.8830356001853943,1,1,DIS_d378b440
+breathing difficulty,breathing difficulty,DISEASE,0.8829900622367859,2,2,DIS_b3f97913
+chest infection,chest infection,DISEASE,0.882621705532074,1,1,DIS_94fca03c
+ocular pain,ocular pain,DISEASE,0.8825064122676849,10,10,DIS_8a87ded0
+chest trauma,chest trauma,DISEASE,0.8819824010133743,4,4,DIS_73cf068c
+peptic disease,peptic disease,DISEASE,0.8819106221199036,2,2,DIS_e0a1e2f3
+interstitial process,interstitial lung process,DISEASE,0.8812797615925471,12,12,DIS_2544b1b4
+snoring,snoring,DISEASE,0.8812622427940369,1,1,DIS_ec734110
+chronic atopic dermatitis,chronic atopic dermatitis,DISEASE,0.8808934092521667,2,2,DIS_4f82f89c
+horizontal diplopia,horizontal diplopia,DISEASE,0.8808063785235087,15,15,DIS_880f32e3
+chronic systolic heart failure,chronic systolic heart failure,DISEASE,0.8805854320526123,2,2,DIS_28da67e4
+brainstem - cerebellar symptoms,brainstem - cerebellar symptoms,DISEASE,0.8804057240486145,1,1,DIS_0a38e0b4
+chronic osteoarthritis,chronic osteoarthritis,DISEASE,0.8796598513921102,3,3,DIS_5a77f06c
+neurologic problems,neurologic problems,DISEASE,0.8796123067537943,3,3,DIS_068e6cca
+ataxic gait,ataxic gait,DISEASE,0.8793127536773682,1,1,DIS_40f07cb1
+neck pain,neck pain,DISEASE,0.879155158996582,2,2,DIS_718cde9f
+valsalva - like strain,valsalva - like strain,DISEASE,0.8787811994552612,1,1,DIS_154f887f
+bronchitic exacerbation,bronchitic exacerbation,DISEASE,0.8786582350730896,1,1,DIS_775923c7
+weakness of ankle dorsiflexion,weakness of ankle dorsiflexion,DISEASE,0.8784227967262268,1,1,DIS_cab8200c
+cardioembolic tia,cardioembolic tia,DISEASE,0.8782577514648438,1,1,DIS_08fc4805
+exertional limitation,exertional limitation,DISEASE,0.8781532843907675,3,3,DIS_85aa6049
+orthostatic dizziness,orthostatic dizziness,DISEASE,0.8779833912849426,2,2,DIS_0fa9e836
+bronchitic,bronchitis,DISEASE,0.8777537771633693,14,14,DIS_58cbc625
+acute on chronic bronchitis,acute on chronic bronchitis,DISEASE,0.8776916265487671,1,1,DIS_bb605cc4
+expressive aphasia,expressive aphasia,DISEASE,0.8773180331502642,7,7,DIS_dfa83e15
+acute otitis media,acute otitis media,DISEASE,0.8772376875082651,6,6,DIS_bc58ac63
+mixed degenerative disease,mixed degenerative disease,DISEASE,0.8771759867668152,1,1,DIS_0e1e4d3e
+exercise - related asthma,exercise - related arrhythmia,DISEASE,0.8770441114902496,2,2,DIS_048df602
+pleuritic pain,pleuritic pain,DISEASE,0.8769979357719422,40,40,DIS_9fc4b65a
+occipital headache,occipital headache,DISEASE,0.8769339493342808,14,14,DIS_71ed6c64
+numbness,numbness,DISEASE,0.8768540444197478,27,26,DIS_cc3fb682
+digital clubbing,digital clubbing,DISEASE,0.876588335696687,47,47,DIS_837fb3b7
+hypertension,hypertension,DISEASE,0.8762284125481452,286,284,DIS_fd481149
+transient ischemic attack,transient ischemic attacks,DISEASE,0.8761218309402465,5,5,DIS_6f84a485
+ischemic optic involvement,ischemic optic involvement,DISEASE,0.8760645985603333,3,3,DIS_e171b1e8
+tremor,tremor,DISEASE,0.8760596116383871,3,3,DIS_febab2d4
+neck swelling,neck swelling,DISEASE,0.8759077191352844,1,1,DIS_ce5aaf98
+optic disc swelling,optic disc swelling,DISEASE,0.8758850314400413,11,11,DIS_70a4fb1d
+fibrosis,fibrosis,DISEASE,0.8758013447125753,3,3,DIS_d0d31c87
+dizziness,dizziness,DISEASE,0.8755718767642975,2,2,DIS_25d91871
+abdominal pain,abdominal pain,DISEASE,0.875317462853023,7,7,DIS_ebf4c0f8
+epigastric pain,epigastric pain,DISEASE,0.8752442419528961,10,10,DIS_bc01205a
+uvular deviation,uvular deviation,DISEASE,0.87504643201828,1,1,DIS_9bedf4c3
+anterior neck discomfort,anterior neck discomfort,DISEASE,0.8749580383300781,2,2,DIS_94ec290a
+urinary infection,urinary tract infection,DISEASE,0.8748631572723389,25,25,DIS_b0fc0316
+inflammatory or demyelinating optic neuritis,inflammatory or demyelinating optic neuritis,DISEASE,0.8747027516365051,1,1,DIS_5db9d703
+atypical pneumonia,atypical pneumonia,DISEASE,0.8742693066596985,1,1,DIS_620f4700
+throat tightness,throat tightness,DISEASE,0.8741659853193495,9,8,DIS_cfc643c1
+seasonal eczema,seasonal eczema,DISEASE,0.8741425275802612,1,1,DIS_e7d63a2e
+systemic rash,systemic rash,DISEASE,0.8737352788448334,6,6,DIS_23fae044
+inflammatory optic neuropathy,inflammatory optic neuropathy,DISEASE,0.8733093043168386,6,6,DIS_597e6519
+arrhythmia,arrhythmia,DISEASE,0.8732000291347504,4,4,DIS_aa7f46cf
+upper and lower extremity weakness,upper and lower extremity weakness,DISEASE,0.873147189617157,1,1,DIS_727b0a2f
+sudden cardiac death,sudden cardiac death,DISEASE,0.8728711009025574,1,1,DIS_c841b46a
+perianal pain,perianal pain,DISEASE,0.8723462820053101,1,1,DIS_7fade4a3
+autoimmune type 1 diabetes,autoimmune type 1 diabetes,DISEASE,0.8723173141479492,1,1,DIS_6f15cf1f
+proximal weakness,proximal leg weakness,DISEASE,0.8721504211425781,6,5,DIS_6c199a96
+proximal leg weakness,proximal leg weakness,DISEASE,0.8721238871415457,6,6,DIS_6c199a96
+limb paresthesias,limb paresthesias,DISEASE,0.8718972206115723,1,1,DIS_037b41f6
+rheumatoid - associated interstitial lung disease,rheumatoid - associated interstitial lung disease,DISEASE,0.8718588352203369,2,2,DIS_4954545b
+eustachian tube dysfunction,eustachian tube dysfunction,DISEASE,0.8715038597583771,2,2,DIS_ac00e97a
+nocturia,nocturia,DISEASE,0.8714666664600372,4,4,DIS_e4359bfd
+breathing problems,breathing problems,DISEASE,0.8712813854217529,1,1,DIS_56773392
+excoriations,excoriations,DISEASE,0.8712351322174072,1,1,DIS_7e5b64bc
+chest tightness,chest tightness,DISEASE,0.871095135807991,32,32,DIS_dd2a9b22
+degenerative and vascular contributors,degenerative and vascular contributors,DISEASE,0.8708906173706055,1,1,DIS_bfcaec14
+small - vessel ischemic changes,chronic small - vessel ischemic change,DISEASE,0.870796799659729,4,4,DIS_6dc346c5
+dry mouth,dry mouth,DISEASE,0.8707822561264038,2,2,DIS_f51a29e0
+cognitive fog,cognitive fog,DISEASE,0.8706440925598145,1,1,DIS_48c83d0d
+maternal asthma,maternal asthma,DISEASE,0.8700313568115234,1,1,DIS_beb927fc
+disorientation,disorientation,DISEASE,0.8699512481689453,1,1,DIS_5d757577
+seizure,seizures,DISEASE,0.869757205247879,10,10,DIS_8eb5a02a
+ankle swelling,ankle swelling,DISEASE,0.8693630456924438,15,15,DIS_81161a12
+microcytic iron ‑ deficiency anemia,microcytic iron ‑ deficiency anemia,DISEASE,0.8692228198051453,1,1,DIS_fd5fb2ca
+bronchitis,bronchitis,DISEASE,0.8691223204135895,10,10,DIS_58cbc625
+viral illness,viral illness,DISEASE,0.868518590927124,1,1,DIS_2713ae3d
+chronic airway symptoms,chronic airway symptoms,DISEASE,0.8685004711151123,1,1,DIS_5ff63b55
+chronic hypertension,chronic hypertension,DISEASE,0.8684672713279724,6,6,DIS_b812ddd0
+double vision,double vision,DISEASE,0.8680322061885487,11,11,DIS_73f74a9e
+syncopal,syncopal,DISEASE,0.8678615093231201,1,1,DIS_c78de01e
+postural dizziness,postural dizziness,DISEASE,0.8677161931991577,1,1,DIS_9979ff74
+lethargy,lethargy,DISEASE,0.867697156392611,13,13,DIS_69f5259c
+proximal leg weakness,proximal leg weakness,DISEASE,0.8676858305931091,5,5,DIS_6c199a96
+horizontal oscillopsia,horizontal oscillopsia,DISEASE,0.8676051795482635,2,2,DIS_a5550038
+jaw pain,jaw pain,DISEASE,0.8674403876066208,4,4,DIS_7130cf47
+focal numbness,focal numbness,DISEASE,0.8670841336250306,5,5,DIS_6c45fe58
+eye irritation,eye irritation,DISEASE,0.86703489224116,3,3,DIS_d5ed2ed6
+periventricular white matter disease,periventricular white matter disease,DISEASE,0.8669936060905457,1,1,DIS_70539f64
+postinfectious pleurisy,postinfectious pleurisy,DISEASE,0.8669459223747253,1,1,DIS_ee9a4e98
+crepitus,crepitus,DISEASE,0.8668206930160522,2,2,DIS_ebca9abb
+pulmonary parenchymal irritation,pulmonary parenchymal irritation,DISEASE,0.8667071461677551,1,1,DIS_8688b9f3
+crescendo tias,crescendo tias,DISEASE,0.8665059208869934,1,1,DIS_3fac49b8
+croup - like illness,croup - like illness,DISEASE,0.866479754447937,1,1,DIS_7ca03d99
+pneumonia,pneumonia,DISEASE,0.8664388610766485,13,12,DIS_2ea13162
+stage i breast carcinoma,stage i breast carcinoma,DISEASE,0.8660122156143188,1,1,DIS_df674be8
+joint hypermobility,joint hypermobility,DISEASE,0.8657843470573425,1,1,DIS_29641bea
+normal pressure hydrocephalus,normal - pressure hydrocephalus,DISEASE,0.8657426055934694,36,36,DIS_bc026ec1
+congenital cardiac,congenital cardiac,DISEASE,0.8657422065734863,1,1,DIS_103dee63
+lower extremity edema,lower - extremity edema,DISEASE,0.8655211726824442,6,6,DIS_0de1aec0
+parkinsonian,parkinsonian,DISEASE,0.8653721809387207,1,1,DIS_07d87ec6
+focal limb numbness,focal limb numbness,DISEASE,0.8653501272201538,2,2,DIS_bcc8c72c
+wheeze,wheeze,DISEASE,0.8651186029116312,57,57,DIS_ea639eda
+aural fullness,aural fullness,DISEASE,0.8650738000869751,1,1,DIS_68cfc85c
+lower - extremity dvt,lower - extremity edema,DISEASE,0.8647776756967817,7,7,DIS_0de1aec0
+clubbing of the fingertips,clubbing of the fingertips,DISEASE,0.8647600412368774,1,1,DIS_d6c24f9d
+focal pneumonia,focal pneumonia,DISEASE,0.8645634055137634,2,2,DIS_e88e2dae
+fever,fever,DISEASE,0.8638955354690552,176,176,DIS_aa8074a0
+ischemic cerebrovascular event,ischemic cerebrovascular event,DISEASE,0.8637599945068359,1,1,DIS_2f8d33aa
+watery diarrhea,watery diarrhea,DISEASE,0.8634518384933472,1,1,DIS_a0fb8509
+biliary - type right upper quadrant pain,biliary - type right upper quadrant pain,DISEASE,0.8631787300109863,1,1,DIS_a63e7170
+sixth - nerve palsy,sixth - nerve palsy,DISEASE,0.8630284070968628,2,2,DIS_2efad818
+lateral gaze difficulty,lateral gaze difficulty,DISEASE,0.8627204895019531,1,1,DIS_2e11de31
+ductal stricture,ductal stricture,DISEASE,0.8625493049621582,1,1,DIS_8c278cd4
+concussion,concussion,DISEASE,0.862362802028656,1,1,DIS_5020fa3d
+paresthesia,paresthesias,DISEASE,0.8622945088606614,13,13,DIS_5486a473
+incontinence,incontinence,DISEASE,0.8620693964116714,17,16,DIS_de909cdf
+postinfectious bronchiolitis,post - infectious bronchiolitis,DISEASE,0.8619241118431091,2,2,DIS_3df56883
+viral pleuritis,viral pleuritis,DISEASE,0.8610371351242065,1,1,DIS_fa31a8c7
+droop,droop,DISEASE,0.8605212569236755,1,1,DIS_2556cc1c
+left - leg dvt,left - leg dvt,DISEASE,0.860436737537384,1,1,DIS_8b440e91
+reactive - airways episode,reactive - airways episode,DISEASE,0.8604058623313904,1,1,DIS_e2950989
+exercise - induced asthma,exercise - induced asthma,DISEASE,0.8600205183029175,4,4,DIS_7f7f0729
+occipital pain,occipital pain,DISEASE,0.8599993884563446,2,2,DIS_dc4f06a3
+paroxysmal atrial fibrillation,paroxysmal atrial fibrillation,DISEASE,0.8598575998436321,22,22,DIS_5443522d
+apathy,apathy,DISEASE,0.8597970724105835,15,15,DIS_58bb6e60
+eye disease,eye disease,DISEASE,0.859290361404419,2,2,DIS_1f3bf151
+stroke,stroke,DISEASE,0.8591587543487549,2,2,DIS_b2aa3a4c
+sensory change,sensory change,DISEASE,0.8589906394481659,6,6,DIS_dc787f1f
+gait decline,gait decline,DISEASE,0.8588961362838745,1,1,DIS_92e5799a
+failure to thrive,failure to thrive,DISEASE,0.8588614165782928,2,2,DIS_d188f760
+reflux - type heartburn,reflux - type heartburn,DISEASE,0.858849287033081,1,1,DIS_35a77ecf
+respiratory symptoms,respiratory symptoms,DISEASE,0.8588472306728363,4,4,DIS_a2ef1973
+head pain,head pain,DISEASE,0.8587946891784668,1,1,DIS_adce2ce2
+sicca complaints,sicca complaints,DISEASE,0.858616828918457,1,1,DIS_9b98a7d6
+aching of the right calf,aching of the right calf,DISEASE,0.8585447371006012,2,2,DIS_2f94f8e6
+stridor,stridor,DISEASE,0.8583133816719055,1,1,DIS_7526eb2d
+retro - orbital ache,retro - orbital ache,DISEASE,0.8582599560419718,3,3,DIS_a5983b4d
+gastric emptying dysfunction,gastric emptying dysfunction,DISEASE,0.858187198638916,1,1,DIS_ade1b91d
+anterior neck pain,anterior neck pain,DISEASE,0.8581786155700684,2,2,DIS_06d60bff
+generalized anxiety,generalized anxiety,DISEASE,0.8576424717903137,1,1,DIS_2adef748
+memory decline,memory decline,DISEASE,0.8575277328491211,1,1,DIS_e31f20b4
+tibial shaft fracture,tibial shaft fracture,DISEASE,0.8571391105651855,1,1,DIS_4ac7ab06
+malaise,malaise,DISEASE,0.8570235209031538,11,11,DIS_f5419c71
+paresthesia in the feet,paresthesias of the feet,DISEASE,0.8569813072681427,2,2,DIS_eac0643e
+gastrointestinal bleeding,gastrointestinal bleeding,DISEASE,0.8568485975265503,1,1,DIS_3b9bb517
+structural obstruction,structural obstruction,DISEASE,0.8564709424972534,1,1,DIS_4a461fe7
+left hemispheric ischemic stroke,left hemispheric ischemic stroke,DISEASE,0.8563669621944427,2,2,DIS_919e86f4
+viral sinus infection,viral sinus infection,DISEASE,0.8561772704124451,1,1,DIS_ab48f0b0
+thromboembolism,thromboembolism,DISEASE,0.8558223247528076,2,2,DIS_003a987a
+obstructing gastric lesion,obstructing gastric lesion,DISEASE,0.8555197715759277,1,1,DIS_8701fcbb
+postinfectious gastroparesis,postinfectious gastroparesis,DISEASE,0.8551695346832275,1,1,DIS_18202baa
+pulsatile tinnitus,pulsatile tinnitus,DISEASE,0.8551660455190219,13,12,DIS_544f3555
+postinfectious mesenteric adenitis,postinfectious mesenteric adenitis,DISEASE,0.8551157116889954,1,1,DIS_2f7861a5
+leg trauma,leg trauma,DISEASE,0.8549610376358032,3,3,DIS_3888fe2d
+abdominal fullness,abdominal fullness,DISEASE,0.8546628952026367,1,1,DIS_5cedf298
+focal seizures,focal seizures,DISEASE,0.8540391325950623,2,2,DIS_bcf4b3b8
+pitting edema,pitting edema,DISEASE,0.854017972946167,3,3,DIS_5e4fe4b8
+desaturation,desaturation,DISEASE,0.8534991443157196,2,2,DIS_de7c6d3c
+lower - extremity deep vein thrombosis,lower - extremity deep venous thrombosis,DISEASE,0.8534617821375529,3,3,DIS_6fa72beb
+transthyretin cardiac amyloidosis,transthyretin cardiac amyloidosis,DISEASE,0.8534080386161804,1,1,DIS_91a45138
+facial droop,facial droop,DISEASE,0.8533787429332733,4,4,DIS_2bbb5667
+abdominal bloating,abdominal bloating,DISEASE,0.8533271849155426,2,2,DIS_1e53b93c
+blurring of central vision,blurring of central vision,DISEASE,0.8530836701393127,2,2,DIS_50e00dd1
+ear infection,ear infection,DISEASE,0.8529449701309204,1,1,DIS_1003f36d
+right - hand paresthesias,right - hand paresthesias,DISEASE,0.8528463840484619,1,1,DIS_4415e68d
+chronic lung process,chronic lung process,DISEASE,0.8519839942455292,2,2,DIS_dc9478d6
+ocular disease,ocular disease,DISEASE,0.8518009980519613,3,3,DIS_f1d2acaa
+frontal headache,frontal headache,DISEASE,0.85178297216242,11,11,DIS_9de9cd36
+solid ‑ food dysphagia,solid ‑ food dysphagia,DISEASE,0.851624459028244,2,2,DIS_6531bd72
+congestion,congestion,DISEASE,0.8515866994857788,2,2,DIS_4626a174
+choking,choking,DISEASE,0.8513884743054708,3,3,DIS_99139ec3
+chest pressure,chest pressure,DISEASE,0.8510947823524475,4,4,DIS_14e4c2a2
+limb heaviness,limb heaviness,DISEASE,0.850633442401886,1,1,DIS_0f565a94
+tachyarrhythmia,tachyarrhythmia,DISEASE,0.8502452969551086,1,1,DIS_2d87305b
+proximal weakness,proximal leg weakness,DISEASE,0.8501256585121155,5,4,DIS_6c199a96
+visual decline,visual decline,DISEASE,0.8501050919294357,4,4,DIS_c0025fe5
+postinfectious vestibulopathy,postinfectious vestibulopathy,DISEASE,0.8499069213867188,1,1,DIS_a8bd15ff
+chronic bronchitic symptoms,chronic bronchitic symptoms,DISEASE,0.8496021628379822,1,1,DIS_9d299094
+malignancy,malignancy,DISEASE,0.849450941880544,15,15,DIS_5baf00e1
+hoarse voice,hoarse voice,DISEASE,0.8494433164596558,1,1,DIS_64eae697
+infectious bronchitic exacerbation,infectious bronchitic exacerbation,DISEASE,0.8493835926055908,1,1,DIS_3955b9ed
+neurologic deficits,focal neurologic deficits,DISEASE,0.848992669582367,15,15,DIS_bf7515de
+decompensated cardiopulmonary disease,decompensated cardiopulmonary disease,DISEASE,0.8489605188369751,2,2,DIS_b42e433d
+slurred speech,slurred speech,DISEASE,0.8480422540947243,27,27,DIS_e0c23872
+temporal headache,temporal headache,DISEASE,0.8476518169045448,8,8,DIS_85034d0a
+aching,aching,DISEASE,0.8476409864425659,25,25,DIS_cd9dc44c
+breast pain,breast pain,DISEASE,0.8476085662841797,1,1,DIS_deb30d94
+food protein – induced intolerance,food protein – induced intolerance,DISEASE,0.8474818468093872,1,1,DIS_25cc6fd0
+obstructive esophageal process,obstructive esophageal process,DISEASE,0.8472064137458801,1,1,DIS_a53caaf2
+juvenile dermatomyositis,juvenile dermatomyositis,DISEASE,0.847152590751648,1,1,DIS_3b3f1721
+sleep disturbance,sleep disturbance,DISEASE,0.8469099402427673,1,1,DIS_20532c51
+chronic atrial fibrillation,chronic atrial fibrillation,DISEASE,0.8465085493193732,9,9,DIS_54bf89a3
+ischemic stroke,ischemic stroke,DISEASE,0.8462152679761251,3,3,DIS_799194a4
+breathlessness,breathlessness,DISEASE,0.8459724958350019,41,41,DIS_cba1e781
+focal sensory loss,focal sensory loss,DISEASE,0.8454474806785583,2,2,DIS_05a63bbf
+hematuria,hematuria,DISEASE,0.8453415036201477,1,1,DIS_f32966b5
+periorbital fullness,periorbital fullness,DISEASE,0.8453222513198853,1,1,DIS_24842846
+proximal stiffness,proximal stiffness,DISEASE,0.8451711535453796,3,3,DIS_d229e2b4
+sputum,sputum,DISEASE,0.8451620042324066,2,2,DIS_c7b8d4d5
+clubbing,clubbing,DISEASE,0.8448830172419548,8,8,DIS_30c71492
+community - acquired pneumonia,community - acquired pneumonia,DISEASE,0.8446631928284963,6,6,DIS_93234f40
+bronchitis - like illness,bronchitis - like illness,DISEASE,0.8446477353572845,2,2,DIS_6321f8f3
+morning stiffness of shoulders and hips,morning stiffness of shoulders and hips,DISEASE,0.8444962501525879,3,3,DIS_c33bc01d
+hyperglycemia,hyperglycemia,DISEASE,0.8443066477775574,1,1,DIS_64828146
+localized prostate cancer,localized prostate cancer,DISEASE,0.8439731001853943,1,1,DIS_91d0d163
+visual blurring,visual blurring,DISEASE,0.8434348404407501,6,6,DIS_207238b3
+bloating,bloating,DISEASE,0.8433757573366165,4,4,DIS_31100fac
+right hand clumsiness,right - hand clumsiness,DISEASE,0.8432369998523167,7,7,DIS_a8808cf3
+fluid retention,fluid retention,DISEASE,0.8430708050727844,1,1,DIS_623c2a21
+cough,cough,DISEASE,0.842803293466568,20,20,DIS_9db088f8
+pleuritic chest discomfort,pleuritic chest discomfort,DISEASE,0.8422063405697162,13,13,DIS_e95572ef
+regurgitation,regurgitation,DISEASE,0.8420277039210001,3,3,DIS_4b6e0725
+orthostatic symptoms,orthostatic symptoms,DISEASE,0.8419781923294067,1,1,DIS_2aee3d4a
+stage 3 chronic kidney disease,stage iii chronic kidney disease,DISEASE,0.8416849076747894,2,2,DIS_a292a8e3
+postauricular swelling,postauricular swelling,DISEASE,0.8415204286575317,2,2,DIS_fd2bea1f
+urinary symptoms,urinary symptoms,DISEASE,0.8414250441959926,7,7,DIS_241f31e0
+seropositive rheumatoid arthritis,seropositive rheumatoid arthritis,DISEASE,0.8413311094045639,4,4,DIS_96669369
+transient ischemic events,transient ischemic events,DISEASE,0.8412673870722452,3,3,DIS_64428eb2
+shortness of breath,shortness of breath,DISEASE,0.8412362446311776,131,131,DIS_4a7e00d9
+clumsiness,clumsiness,DISEASE,0.8411823511123657,3,3,DIS_a94f0c54
+dependent edema,dependent edema,DISEASE,0.8409964442253113,2,2,DIS_f1231a1d
+right - sided weakness,right - sided weakness,DISEASE,0.8409731924533844,10,10,DIS_80ba1213
+respiratory illness,upper respiratory illness,DISEASE,0.8407664549203566,162,162,DIS_9cec4112
+weakness of the right arm,weakness of the right arm,DISEASE,0.8405510783195496,1,1,DIS_3c1806fb
+floaters,floaters,DISEASE,0.8405168056488037,3,3,DIS_4a855cfa
+hands,hands,DISEASE,0.8404615521430969,1,1,DIS_3cc1fa70
+tingling,tingling,DISEASE,0.8404482517923627,14,14,DIS_ca8f1a32
+ischemia,ischemia,DISEASE,0.8403952419757843,2,2,DIS_3276ed82
+flu - like illness,flu - like illness,DISEASE,0.8396441638469696,2,2,DIS_a3f9c366
+photophobia,photophobia,DISEASE,0.8395799373586973,48,48,DIS_952858bd
+afferent pupillary defect,right afferent pupillary defect,DISEASE,0.8390302402632577,7,7,DIS_9aac3ba2
+left afferent pupillary defect,relative afferent pupillary defect,DISEASE,0.8385344914027623,21,21,DIS_e81df5dc
+postinfectious cerebellitis,postinfectious cerebellitis,DISEASE,0.8377253413200378,2,2,DIS_183d85a0
+pulmonary sarcoidosis,pulmonary sarcoidosis,DISEASE,0.8370198011398315,1,1,DIS_78a6c3b2
+stress and urge incontinence,stress and urge incontinence,DISEASE,0.8370146751403809,1,1,DIS_87fd5fee
+right - hand numbness,right - hand clumsiness,DISEASE,0.8365495860576629,10,10,DIS_a8808cf3
+systemic illness,systemic illness,DISEASE,0.8363879919052124,4,4,DIS_c5c03260
+proximal upper ‑ extremity weakness,proximal upper ‑ extremity weakness,DISEASE,0.8361461758613586,1,1,DIS_e53b1404
+urge incontinence,urge incontinence,DISEASE,0.8360603153705597,8,8,DIS_f2fa3c07
+memory loss,memory loss,DISEASE,0.8358215391635895,2,2,DIS_bced1416
+pleuritic chest tightness,pleuritic chest tightness,DISEASE,0.8358119130134583,1,1,DIS_3a37fd21
+post - infectious cough,post - infectious cough,DISEASE,0.835773766040802,1,1,DIS_39110440
+weight loss,weight loss,DISEASE,0.8357451369887904,19,19,DIS_465022fb
+polymyalgia symptoms,polymyalgia - type symptoms,DISEASE,0.8356306105852127,4,4,DIS_4ec7724e
+chronic baseline dyspnea,chronic baseline dyspnea,DISEASE,0.8355498313903809,1,1,DIS_59e0ed88
+vertical dizziness,vertical dizziness,DISEASE,0.8352072238922119,1,1,DIS_8766992c
+oral aphthous ulcers,oral aphthous ulcers,DISEASE,0.8351615071296692,1,1,DIS_77d3c5b3
+right ‑ sided congestion,right - sided congestion,DISEASE,0.835091213385264,3,3,DIS_207e341c
+fatigue,fatigue,DISEASE,0.8345295779676323,83,83,DIS_cf955ed8
+aspiration,aspiration,DISEASE,0.8344826400279999,2,2,DIS_43ce65c7
+holocephalic headache,holocephalic headache,DISEASE,0.8344532370567321,5,5,DIS_7ace8c9f
+focal macular edema,focal macular edema,DISEASE,0.8342762589454651,1,1,DIS_496f96b3
+lung scarring,lung scarring,DISEASE,0.8341655731201172,1,1,DIS_ce9b3e39
+left ‑ hemispheric transient ischemic attacks,left ‑ hemispheric transient ischemic attacks,DISEASE,0.8336895108222961,1,1,DIS_a87bf99d
+chronic nasal obstruction,chronic nasal obstruction,DISEASE,0.8333929181098938,1,1,DIS_9d339cac
+pleuritic cough,pleuritic cough,DISEASE,0.8333829641342163,1,1,DIS_ab1179e9
+postinfectious bronchiolitis,postinfectious bronchiectasis,DISEASE,0.8331531882286072,3,3,DIS_b7a54fc6
+perioral cyanosis,perioral cyanosis,DISEASE,0.8330322504043579,1,1,DIS_68f379a7
+occupational lung disease,occupational lung disease,DISEASE,0.8326690196990967,1,1,DIS_42598e88
+blurry vision,blurred vision,DISEASE,0.8324494298468245,47,47,DIS_9816a7bb
+lower extremity weakness,lower extremity weakness,DISEASE,0.8324480652809143,1,1,DIS_a94fba41
+neck mass,neck mass,DISEASE,0.8324063420295715,1,1,DIS_7e6075f5
+morning stiffness,morning stiffness,DISEASE,0.8319994078742133,9,9,DIS_303f88e4
+left leg weakness,left leg weakness,DISEASE,0.8311440944671631,1,1,DIS_4172e852
+unsteady truncal ataxia,unsteady truncal ataxia,DISEASE,0.8310010433197021,1,1,DIS_964ad03f
+dyspnea,dyspnea,DISEASE,0.8306239765198504,61,61,DIS_0c790ee6
+focal sensory deficits,focal sensory deficits,DISEASE,0.8305283188819885,1,1,DIS_24a9860d
+anxious tachycardia,anxious tachycardia,DISEASE,0.8304636478424072,1,1,DIS_a36bf3d3
+right upper ‑ quadrant fullness,right upper ‑ quadrant fullness,DISEASE,0.8302246332168579,1,1,DIS_ea55da52
+hyperthyroid process,hyperthyroid process,DISEASE,0.8301917314529419,1,1,DIS_1be8386e
+nocturnal incontinence,nocturnal incontinence,DISEASE,0.8301411867141724,1,1,DIS_5851c21f
+calf swelling,calf swelling,DISEASE,0.8299036688274808,18,16,DIS_d4624a8b
+fine hand tremor,fine hand tremor,DISEASE,0.8297427892684937,3,3,DIS_d058b50e
+speech arrest,speech arrest,DISEASE,0.8295137882232666,1,1,DIS_0b3b1591
+periorbital headache,periorbital headache,DISEASE,0.8293755054473877,1,1,DIS_e7fd7b15
+structural lung disease,structural lung disease,DISEASE,0.829195499420166,1,1,DIS_f11139e1
+focal deficit,focal deficit,DISEASE,0.8290581405162811,2,2,DIS_7615b6e5
+laryngeal obstruction,laryngeal obstruction,DISEASE,0.8288604617118835,1,1,DIS_d7d45f0e
+bronchitic change,bronchitic change,DISEASE,0.8283167481422424,1,1,DIS_07b782c1
+respiratory illness,viral upper respiratory illness,DISEASE,0.8277766108512878,3,3,DIS_a7c8a06c
+volume overload,volume overload,DISEASE,0.8272811323404312,4,4,DIS_7655f164
+periorbital pain,periorbital pain,DISEASE,0.8271733721097311,3,3,DIS_3b0d776a
+exertional wheeze,exertional wheeze,DISEASE,0.8271695971488953,1,1,DIS_98844708
+gait unsteadiness,gait unsteadiness,DISEASE,0.8269905149936676,4,4,DIS_3e894601
+left hemiparesis,left hemiparesis,DISEASE,0.8268524408340454,1,1,DIS_594ca958
+drooling,drooling,DISEASE,0.8268214762210846,2,2,DIS_3fb5fb2b
+cardiac chest pain,cardiac chest pain,DISEASE,0.8265721797943115,1,1,DIS_d5b3ba60
+painful hip osteoarthritis,painful hip osteoarthritis,DISEASE,0.8263063430786133,1,1,DIS_67fe4f02
+sneezing,sneezing,DISEASE,0.826093852519989,1,1,DIS_0350233b
+cramping,cramping,DISEASE,0.8259444087743759,4,4,DIS_a464568e
+emphysematous change,emphysematous change,DISEASE,0.8258522152900696,1,1,DIS_9ebebf53
+near - syncope,near - syncope,DISEASE,0.8258145401875178,12,12,DIS_e50199de
+viral gastroenteritis,viral gastroenteritis,DISEASE,0.8255236347516378,3,3,DIS_9ace99e9
+optic process,optic process,DISEASE,0.8254421949386597,1,1,DIS_fd47a521
+swelling,swelling,DISEASE,0.8253919733198065,19,19,DIS_a25f8b78
+chronic reflux symptoms,chronic reflux symptoms,DISEASE,0.8251425623893738,1,1,DIS_a523acdc
+tachycardia,tachycardia,DISEASE,0.8249742984771729,18,17,DIS_2dd43f11
+central visual field defect,central visual field defect,DISEASE,0.8249707221984863,1,1,DIS_c1fb3e5f
+seasonal allergic rhinitis,seasonal allergic rhinitis,DISEASE,0.8249565451233475,27,27,DIS_777e9737
+swelling of both ankles,swelling of both ankles,DISEASE,0.8247495889663696,1,1,DIS_1f6fa7af
+temporal pain,temporal pain,DISEASE,0.8245751857757568,1,1,DIS_09016b88
+right arm weakness,right arm weakness,DISEASE,0.8240463137626648,4,4,DIS_614f7307
+carotid bruits,carotid bruits,DISEASE,0.8240317106246948,1,1,DIS_b96c83c6
+acute appendicitis,acute appendicitis,DISEASE,0.8237147927284241,1,1,DIS_9596c9a2
+exertional dyspnea,exertional dyspnea,DISEASE,0.8236118358670523,261,260,DIS_37b25b9d
+hypoxemia,hypoxemia,DISEASE,0.8235796827536362,13,13,DIS_303b8a74
+hypoxia,hypoxemia,DISEASE,0.8233416676521301,19,19,DIS_303b8a74
+retro - orbital pain,retro - orbital pain,DISEASE,0.8230546712875366,18,18,DIS_deac4dc5
+heat sensitivity,heat sensitivity,DISEASE,0.8230142593383789,1,1,DIS_4bbfbca2
+macular drusen,macular drusen,DISEASE,0.8227506279945374,2,2,DIS_f2894c85
+shoulder and hip stiffness,morning shoulder and hip stiffness,DISEASE,0.8223921298980713,5,5,DIS_fd5cca6e
+eyelid droop,eyelid droop,DISEASE,0.8222172260284424,1,1,DIS_97b39318
+neck tightness,neck tightness,DISEASE,0.8218579292297363,1,1,DIS_1554e85b
+deconditioning,deconditioning,DISEASE,0.8216649095217387,3,3,DIS_d10cd1ab
+exercise - induced laryngeal obstruction,exercise - induced laryngeal obstruction,DISEASE,0.821633517742157,1,1,DIS_60f4f139
+demyelinating disease,demyelinating disease,DISEASE,0.8210610449314117,4,4,DIS_646e6e5e
+ear fullness,ear fullness,DISEASE,0.8208363652229309,1,1,DIS_0276045d
+nonbilious emesis,nonbilious emesis,DISEASE,0.820754885673523,1,1,DIS_c7b28884
+left - sided weakness,left - sided weakness,DISEASE,0.820722758769989,3,3,DIS_170a0f23
+neck fullness,neck fullness,DISEASE,0.820687186717987,5,5,DIS_647820a9
+neurologic symptoms,focal neurologic symptoms,DISEASE,0.8206199333071709,8,8,DIS_69ca441c
+substernal tightness,substernal tightness,DISEASE,0.8205323815345764,1,1,DIS_0b7d8fb0
+nausea,nausea,DISEASE,0.820519222662999,39,39,DIS_510110b8
+right ‑ ear fullness,right ‑ ear fullness,DISEASE,0.8198233842849731,1,1,DIS_f337b6cf
+pitting pedal edema,pitting pedal edema,DISEASE,0.8197765350341797,1,1,DIS_7bee6b10
+left - sided hearing loss,left - sided hearing loss,DISEASE,0.8196145296096802,2,2,DIS_c03f1496
+unsteady gait,unsteady gait,DISEASE,0.8194526582956314,4,4,DIS_ef4b7208
+decompensated heart failure,decompensated heart failure,DISEASE,0.8194297790527344,10,10,DIS_d52d6665
+runny nose,runny nose,DISEASE,0.8192622264226278,6,6,DIS_b2385266
+posterior neck stiffness,posterior neck stiffness,DISEASE,0.8192057013511658,1,1,DIS_9cd5e68d
+axial low back pain,axial low back pain,DISEASE,0.8191083073616028,1,1,DIS_736242ad
+lower extremity swelling,lower extremity swelling,DISEASE,0.8188926902684298,11,11,DIS_d4031c2e
+blurring of vision,blurring of vision,DISEASE,0.8188511878252029,8,8,DIS_05870cc5
+resting tremor,resting tremor,DISEASE,0.8184797167778015,2,2,DIS_28538d95
+intermittent asthma,intermittent asthma,DISEASE,0.8184172766549247,7,7,DIS_9bc98e94
+ear trauma,head trauma,DISEASE,0.8183151591907848,22,22,DIS_694cc293
+respiratory infection,upper respiratory infection,DISEASE,0.8182029959767364,86,85,DIS_5765435d
+heel pain,heel pain,DISEASE,0.8177968859672546,1,1,DIS_b8af4c12
+lid retraction,lid retraction,DISEASE,0.8175327579180399,3,3,DIS_467a9c17
+secondary amenorrhea,secondary amenorrhea,DISEASE,0.8172675371170044,1,1,DIS_32f243c9
+trauma,trauma,DISEASE,0.8171336596662347,11,11,DIS_980e767c
+inflammatory arteritic process,inflammatory vasculitic process,DISEASE,0.8169934749603271,2,2,DIS_d09aa583
+burning epigastric pain,burning epigastric pain,DISEASE,0.8167915940284729,1,1,DIS_6469ecc3
+weakness,weakness,DISEASE,0.8167419348444257,7,7,DIS_24a1fa1c
+systemic fever,systemic fever,DISEASE,0.8166085481643677,3,3,DIS_dbb68ba6
+reflux,reflux,DISEASE,0.8164399067560831,3,3,DIS_70f5b77d
+clumsiness of the,clumsiness of the,DISEASE,0.8162035942077637,1,1,DIS_68c4fe03
+exertional hypoxemia,exertional hypoxemia,DISEASE,0.8159052282571793,4,4,DIS_c89726c3
+eating - related jaw claudication,eating - related jaw claudication,DISEASE,0.8153020143508911,1,1,DIS_6f485c9e
+exertional desaturation,exertional desaturation,DISEASE,0.8152453473636082,7,7,DIS_f729f699
+right - leg numbness,right - leg numbness,DISEASE,0.8147739171981812,1,1,DIS_42ce6712
+bronchitic upper respiratory illness,bronchitic upper respiratory illness,DISEASE,0.81440070271492,2,2,DIS_a1af8dd4
+postprandial colic,postprandial colic,DISEASE,0.8143736720085144,1,1,DIS_1e779d7d
+right leg weakness,right leg weakness,DISEASE,0.8141928911209106,2,2,DIS_d00bd1b5
+bifrontal pounding headache,bifrontal pounding headache,DISEASE,0.8140574097633362,1,1,DIS_3ddacca3
+aching pain,aching pain,DISEASE,0.8138319849967957,5,5,DIS_07bc0157
+numbness of the,numbness of the,DISEASE,0.8136873841285706,1,1,DIS_3acdc4f6
+persistent thromboembolic disease,persistent thromboembolic disease,DISEASE,0.8136029243469238,1,1,DIS_5dc951b3
+cranial nerve deficits,cranial nerve deficits,DISEASE,0.8131990432739258,1,1,DIS_7912c10a
+viral croup,viral croup,DISEASE,0.8131166696548462,1,1,DIS_1b11aec3
+jaw ache,jaw ache,DISEASE,0.8131016492843628,1,1,DIS_ebc180a4
+pleuritic tenderness,pleuritic tenderness,DISEASE,0.8127472400665283,1,1,DIS_1ec5b6e4
+tenderness,tenderness,DISEASE,0.812488853931427,1,1,DIS_cb6ea0ae
+reflux - associated aspiration,reflux - associated aspiration,DISEASE,0.8119637370109558,1,1,DIS_735f523e
+photopsias,photopsias,DISEASE,0.8118292888005575,3,3,DIS_738c4cdb
+lightheadedness,lightheadedness,DISEASE,0.8118203860340696,132,131,DIS_f875ef86
+eye grittiness,eye grittiness,DISEASE,0.8117828369140625,1,1,DIS_70523b8d
+binocular diplopia,binocular diplopia,DISEASE,0.8114558458328247,10,10,DIS_2b19cc67
+postprandial biliary - type pain,postprandial biliary - type pain,DISEASE,0.8113559484481812,1,1,DIS_1e1c571a
+arm and leg weakness,right arm and leg weakness,DISEASE,0.811307430267334,2,2,DIS_2068cc6b
+purulent cough,purulent cough,DISEASE,0.8111250400543213,1,1,DIS_3177048b
+postviral labyrinthitis,postviral labyrinthitis,DISEASE,0.8109851479530334,1,1,DIS_6413478b
+visual obscurations,visual obscurations,DISEASE,0.8105019010030307,13,13,DIS_913b1a88
+greater - than - left ptosis,greater - than - left ptosis,DISEASE,0.810474693775177,1,1,DIS_852927a4
+neovascular ( wet ) age - related macular degeneration,neovascular ( wet ) age - related macular degeneration,DISEASE,0.8104274272918701,1,1,DIS_211b257e
+aching of the,aching of the,DISEASE,0.8104175329208374,2,2,DIS_86c7800a
+expiratory wheeze,expiratory wheeze,DISEASE,0.8102553486824036,1,1,DIS_2e3894e3
+chronic illness,chronic illness,DISEASE,0.8101276755332947,2,2,DIS_95ea4c0f
+postinfectious reactive airways,postinfectious reactive airways,DISEASE,0.80982905626297,1,1,DIS_2c74b032
+throat constriction,throat constriction,DISEASE,0.8093748688697815,1,1,DIS_31c473c1
+ulcer,ulcer,DISEASE,0.8090351819992065,1,1,DIS_5c822835
+bilateral leg symptoms,bilateral leg symptoms,DISEASE,0.8087407946586609,1,1,DIS_7117ac55
+redness,redness,DISEASE,0.8087236285209656,1,1,DIS_6f0764e2
+unsteadiness,unsteadiness,DISEASE,0.8085183203220367,12,12,DIS_400c5592
+post - viral cardiomyopathy,post - viral cardiomyopathy,DISEASE,0.8084840774536133,1,1,DIS_45159dfe
+bowel obstruction,bowel obstruction,DISEASE,0.8082805871963501,1,1,DIS_7e9d882f
+postprandial fullness,postprandial fullness,DISEASE,0.8074855208396912,2,2,DIS_61711746
+breast cancer,breast cancer,DISEASE,0.8071692585945129,1,1,DIS_6ea17017
+morning stiffness in shoulders and hips,morning stiffness of shoulders and hips,DISEASE,0.8066709637641907,3,3,DIS_c33bc01d
+ocular irritation,ocular irritation,DISEASE,0.8065639734268188,1,1,DIS_01054c7d
+infectious consolidation,infectious consolidation,DISEASE,0.8064908981323242,1,1,DIS_57674ea1
+daytime incontinence,daytime incontinence,DISEASE,0.8062485456466675,2,2,DIS_de28f7c0
+lower - extremity numbness,lower - extremity numbness,DISEASE,0.8060879707336426,1,1,DIS_38a69a77
+postinfectious bronchospasm,postinfectious bronchospasm,DISEASE,0.8059440851211548,1,1,DIS_dbae66ad
+pulmonary vascular involvement,pulmonary vascular involvement,DISEASE,0.805584043264389,2,2,DIS_71bebc17
+hypoxemic symptoms,hypoxemic symptoms,DISEASE,0.8053344488143921,1,1,DIS_86fcaeac
+eyelid erythema,eyelid erythema,DISEASE,0.8048239946365356,1,1,DIS_3afde576
+postprandial regurgitation,postprandial regurgitation,DISEASE,0.8048094213008881,2,2,DIS_afff8435
+blurring,blurring,DISEASE,0.8047707319259644,10,10,DIS_c4a834e5
+morning headache,morning headaches,DISEASE,0.8046553475516183,7,6,DIS_f9649fe0
+obstructive process,obstructive process,DISEASE,0.8041452765464783,3,3,DIS_4262a923
+cold,cold,DISEASE,0.8038103580474854,1,1,DIS_68576d20
+inflammatory demyelinating process,inflammatory demyelinating process,DISEASE,0.8035321036974589,3,3,DIS_f1e858fb
+pleuritic chest pain,pleuritic chest pain,DISEASE,0.8032191461986966,9,9,DIS_9cc6085e
+short - term memory impairment,short - term memory impairment,DISEASE,0.8029778897762299,2,2,DIS_363fe32a
+pitting leg edema,pitting ankle edema,DISEASE,0.8028883188962936,4,4,DIS_8f799192
+scalp tenderness,scalp tenderness,DISEASE,0.8028445610633264,13,13,DIS_bb83a939
+coordination,coordination,DISEASE,0.8027892112731934,1,1,DIS_b7268019
+left arm weakness,left arm weakness,DISEASE,0.8026033043861389,2,2,DIS_5357b818
+thoracic back pain,thoracic back pain,DISEASE,0.8025563061237335,2,2,DIS_1ec7f280
+leg weakness,leg weakness,DISEASE,0.8025200366973877,1,1,DIS_1cdf5cb0
+inspiratory stridor,inspiratory stridor,DISEASE,0.8024768133958181,6,6,DIS_b1adb86f
+loss of consciousness,loss of consciousness,DISEASE,0.8022556453943253,4,4,DIS_42e382c4
+confusion,confusion,DISEASE,0.8020771869591304,14,14,DIS_f6750866
+focal vision change,focal vision change,DISEASE,0.8019943833351135,1,1,DIS_06169ab8
+bilateral lower extremity swelling,bilateral lower extremity swelling,DISEASE,0.8018366098403931,1,1,DIS_301df5c3
+discharge,discharge,DISEASE,0.8017284572124481,2,2,DIS_729a0ada
+spontaneous pneumothorax,spontaneous pneumothorax,DISEASE,0.8015572726726532,2,2,DIS_3d607517
+right arm paresthesia,right arm paresthesia,DISEASE,0.8011703491210938,1,1,DIS_2eda218d
+right hemispheric ischemic event,right hemispheric ischemic event,DISEASE,0.799753725528717,1,1,DIS_22856d75
+scleral icterus,scleral icterus,DISEASE,0.7996958494186401,1,1,DIS_62b52568
+gait impairment,gait impairment,DISEASE,0.7996719479560852,2,2,DIS_f1856b73
+pain,pain,DISEASE,0.799619734287262,3,3,DIS_a892f76c
+postprandial bloating,postprandial bloating,DISEASE,0.7990085482597351,1,1,DIS_aaa7c351
+aching and swelling of the left calf,aching and swelling of the left calf,DISEASE,0.798761785030365,1,1,DIS_28e5d847
+reactive pleural effusion,reactive pleural effusion,DISEASE,0.7982177138328552,1,1,DIS_f29096fd
+neurologic,neurologic,DISEASE,0.797773003578186,1,1,DIS_07fb1b8e
+rotational vertigo,rotational vertigo,DISEASE,0.7975416481494904,2,2,DIS_9a740800
+eye trauma,eye trauma,DISEASE,0.7969859838485718,1,1,DIS_23345a3a
+periorbital puffiness,periorbital puffiness,DISEASE,0.7969337701797485,1,1,DIS_3e814f63
+purulent otorrhea,purulent otorrhea,DISEASE,0.7965256174405416,3,3,DIS_eb5a070b
+shoulder stiffness,shoulder stiffness,DISEASE,0.7963749965031942,3,3,DIS_d1a12693
+aching and swelling of the,aching and swelling of the,DISEASE,0.7963609993457794,2,2,DIS_d6acdf17
+bilateral lower extremity edema,bilateral lower extremity edema,DISEASE,0.7962733805179596,2,2,DIS_655fdbac
+dementia - like symptoms,dementia - like symptoms,DISEASE,0.7960009574890137,1,1,DIS_6eeb5430
+sinus illness,sinus illness,DISEASE,0.7955492734909058,1,1,DIS_297ddb98
+urinary hesitancy,urinary hesitancy,DISEASE,0.7949926853179932,1,1,DIS_da03427f
+monocular visual loss,monocular vision loss,DISEASE,0.7949178218841553,4,4,DIS_fdec3e79
+postinfectious transverse myelitis,postinfectious transverse myelitis,DISEASE,0.7942366600036621,1,1,DIS_7be0a642
+ear disease,ear disease,DISEASE,0.7941991090774536,1,1,DIS_28e8a84a
+chronic digital clubbing,chronic digital clubbing,DISEASE,0.7941083312034607,1,1,DIS_312d0064
+jaw fatigue,jaw fatigue,DISEASE,0.79407799243927,1,1,DIS_68546c5a
+acute sinusitis,acute sinusitis,DISEASE,0.7939519882202148,1,1,DIS_4af5c1f6
+right ankle and calf swelling,right ankle and calf swelling,DISEASE,0.7934377789497375,1,1,DIS_8fc16fe3
+limited systemic sclerosis,limited systemic sclerosis,DISEASE,0.7927754521369934,1,1,DIS_1e0a5cf9
+pneumomediastinum,pneumomediastinum,DISEASE,0.7923962473869324,1,1,DIS_27ca3451
+throat fullness,throat fullness,DISEASE,0.7923266887664795,1,1,DIS_6d7086a4
+central chest pain,central chest pain,DISEASE,0.7918536067008972,1,1,DIS_aa8acb16
+chronic infection,chronic infection,DISEASE,0.7918193638324738,2,2,DIS_85ceff4d
+thromboembolic complication,thromboembolic complication,DISEASE,0.7917523384094238,2,2,DIS_8a999015
+nocturnal dyspnea,nocturnal dyspnea,DISEASE,0.7913705110549927,1,1,DIS_d3ce4f9e
+horizontal eye misalignment,horizontal eye misalignment,DISEASE,0.7913620471954346,1,1,DIS_f9b0cc17
+episodic migraine,episodic migraine,DISEASE,0.7912682294845581,2,2,DIS_cd84f0ec
+- sided chest discomfort,right - sided chest discomfort,DISEASE,0.7910948539602345,29,29,DIS_35a7573f
+night sweats,night sweats,DISEASE,0.7910870760679245,4,4,DIS_ee6cf62f
+low - grade fever,low - grade fever,DISEASE,0.7907555252313614,4,4,DIS_27212403
+migratory arthralgias,migratory arthralgias,DISEASE,0.7903598546981812,1,1,DIS_fd644ce9
+postauricular erythema,postauricular erythema,DISEASE,0.7902827262878418,1,1,DIS_d5995819
+clear,clear,DISEASE,0.7895731925964355,1,1,DIS_b279089e
+acute pulmonary embolism,acute pulmonary embolism,DISEASE,0.7893343965212504,3,3,DIS_b2b42bbf
+foreign body aspiration,foreign body aspiration,DISEASE,0.7892062067985535,1,1,DIS_1b8bf353
+distal numbness,distal numbness,DISEASE,0.7885464429855347,1,1,DIS_7c08ef14
+right arm and leg numbness,right arm and leg numbness,DISEASE,0.7882746458053589,1,1,DIS_fa171a5d
+whooshing,whooshing,DISEASE,0.7874259948730469,1,1,DIS_a6cd4862
+febrile illness,febrile illness,DISEASE,0.7869023680686951,1,1,DIS_526ecd7f
+immobility,immobility,DISEASE,0.7868598103523254,1,1,DIS_6a86030a
+left hemispheric stroke,left hemispheric stroke,DISEASE,0.7867091298103333,1,1,DIS_fec56c92
+chronic cerebrovascular change,chronic cerebrovascular change,DISEASE,0.7866528034210205,1,1,DIS_76bac463
+vasculitic,vasculitic,DISEASE,0.7865936160087585,1,1,DIS_c838ace9
+- sided chest pain,right - sided chest pain,DISEASE,0.7864068746566772,34,34,DIS_0b42fec1
+- sided pleuritic chest pain,right - sided pleuritic chest pain,DISEASE,0.7862627506256104,6,6,DIS_ff9ec0b0
+pounding headache,pounding headache,DISEASE,0.7860350012779236,1,1,DIS_0797492e
+tightness,tightness,DISEASE,0.7859524488449097,1,1,DIS_e2454240
+postprandial crampy epigastric pain,postprandial crampy epigastric pain,DISEASE,0.7859158515930176,1,1,DIS_d2d1554c
+myopia,myopia,DISEASE,0.7856271862983704,1,1,DIS_27e26f46
+wheezing,wheezing,DISEASE,0.7854359745979309,1,1,DIS_b442b9de
+projectile vomiting,projectile vomiting,DISEASE,0.7849293351173401,2,2,DIS_31249fd5
+seasonal allergies,seasonal allergies,DISEASE,0.7845001518726349,2,2,DIS_cb7f30ae
+right - sided pleuritic discomfort,right - sided pleuritic chest discomfort,DISEASE,0.7843055526415507,3,3,DIS_59e69d68
+scotoma,scotoma,DISEASE,0.7839192450046539,2,2,DIS_793caca1
+periocular ache,periocular ache,DISEASE,0.7839162349700928,1,1,DIS_d3aaa70d
+hyperadrenergic endocrine process,hyperadrenergic endocrine process,DISEASE,0.783699095249176,1,1,DIS_db4808b0
+tremor of the hands,tremor of the hands,DISEASE,0.7836710214614868,1,1,DIS_2b9b35f3
+superior visual field defect,superior visual field defect,DISEASE,0.7834452390670776,1,1,DIS_d97e16f4
+cardiac symptoms,cardiac symptoms,DISEASE,0.7831844091415405,1,1,DIS_b16a4058
+head injury,head injury,DISEASE,0.7831315994262695,1,1,DIS_0cf55f13
+idiopathic intracranial hypertension,idiopathic intracranial hypertension,DISEASE,0.7829793930053711,5,5,DIS_cc510915
+dry cough,dry cough,DISEASE,0.78292376101017,20,20,DIS_afdae781
+somnolence,somnolence,DISEASE,0.7816336750984192,1,1,DIS_3f0a3e79
+eye redness,eye redness,DISEASE,0.781536340713501,1,1,DIS_ec29ae97
+acute macular neuroretinopathy,acute macular neuroretinopathy,DISEASE,0.7807804942131042,1,1,DIS_967d650c
+lower - extremity stiffness,lower - extremity stiffness,DISEASE,0.7806529104709625,2,2,DIS_48fce772
+hyperresonance,hyperresonance,DISEASE,0.7805670499801636,1,1,DIS_02844182
+right hip ache,right hip ache,DISEASE,0.7803180813789368,1,1,DIS_6dc0ac41
+visual scotomas,visual scotomas,DISEASE,0.779624879360199,1,1,DIS_ca3a5d86
+- induced reactive airways disease,viral - induced reactive airways disease,DISEASE,0.77950718998909,2,2,DIS_6893916f
+left arm numbness,left - arm numbness,DISEASE,0.7793655097484589,2,2,DIS_ee72fcce
+focal head trauma,focal head trauma,DISEASE,0.7793523669242859,1,1,DIS_4e424643
+visual field defect,visual field deficit,DISEASE,0.7793456614017487,2,2,DIS_a202d0dd
+tingling and numbness,tingling and numbness,DISEASE,0.7793419361114502,1,1,DIS_b70c9509
+binocular horizontal diplopia,binocular horizontal diplopia,DISEASE,0.779218927025795,4,4,DIS_905d939f
+hydrocephalic process,hydrocephalic process,DISEASE,0.7777723073959351,1,1,DIS_6b929ba4
+periocular pain,periocular pain,DISEASE,0.7770161628723145,1,1,DIS_0785a3e0
+distal lower extremity numbness,distal lower extremity numbness,DISEASE,0.7768266797065735,1,1,DIS_b4a14977
+sleepiness,sleepiness,DISEASE,0.7767951488494873,1,1,DIS_219c7478
+distal paresthesia in the foot,distal paresthesia in the foot,DISEASE,0.7767792344093323,1,1,DIS_5cd07f70
+pituitary macroadenoma,pituitary macroadenoma,DISEASE,0.7765030860900879,1,1,DIS_381030d2
+sinonasal symptoms,sinonasal symptoms,DISEASE,0.7762033343315125,1,1,DIS_725619e9
+pleuritic,pleuritic,DISEASE,0.7750030557314554,3,3,DIS_910b7eec
+neovascular conversion,neovascular conversion,DISEASE,0.774949312210083,1,1,DIS_eabb0265
+gritty eye irritation,gritty eye irritation,DISEASE,0.7743685841560364,1,1,DIS_fb6daf53
+nonpleuritic retrosternal discomfort,nonpleuritic retrosternal discomfort,DISEASE,0.7739241719245911,1,1,DIS_8bef6022
+complicated migraine,complicated migraine,DISEASE,0.7735956311225891,1,1,DIS_65724552
+ocular redness,ocular redness,DISEASE,0.7735949754714966,1,1,DIS_32b0e9b9
+unilateral leg swelling,bilateral ankle swelling,DISEASE,0.7734474092721939,4,4,DIS_79db041a
+post - obstructive pneumonia,post - obstructive pneumonia,DISEASE,0.7733169794082642,1,1,DIS_ae4705f4
+hydrocephalus - related syndrome,hydrocephalus - related syndrome,DISEASE,0.7730247974395752,1,1,DIS_a7ce9e97
+right calf aching,right calf aching,DISEASE,0.7725775241851807,1,1,DIS_2675874c
+periorbital swelling,periorbital swelling,DISEASE,0.7722727060317993,1,1,DIS_70b649cf
+contact lens – associated keratitis,contact lens – associated keratitis,DISEASE,0.7721070051193237,1,1,DIS_f7d13d2c
+visual aura,visual aura,DISEASE,0.7720637321472168,1,1,DIS_81dc9e10
+vision change,vision change,DISEASE,0.7717154622077942,1,1,DIS_1d16836c
+- sided facial weakness,- sided facial weakness,DISEASE,0.7715727090835571,1,1,DIS_ed3ad1bb
+thrombotic process,thrombotic process,DISEASE,0.7713612914085388,1,1,DIS_7934ebe7
+focal vision loss,focal vision loss,DISEASE,0.7704899311065674,1,1,DIS_8ef94327
+dyspneic,dyspneic,DISEASE,0.7703654766082764,2,2,DIS_07cdfcb2
+unilateral ptosis,unilateral ptosis,DISEASE,0.7696279585361481,2,2,DIS_ac314759
+brain fog,brain fog,DISEASE,0.7695462703704834,1,1,DIS_624efafa
+airway disease,airway disease,DISEASE,0.7693381309509277,1,1,DIS_379ff07e
+sweats,sweats,DISEASE,0.7685250043869019,1,1,DIS_b7ee2ca5
+bifrontal throbbing headache,bifrontal throbbing headache,DISEASE,0.7681868672370911,1,1,DIS_d7eb2b31
+permanent loss,permanent loss,DISEASE,0.7679632902145386,1,1,DIS_92049e6a
+pancreatitis,pancreatitis,DISEASE,0.7676048874855042,1,1,DIS_edc914ca
+swollen legs,swollen legs,DISEASE,0.7671802043914795,1,1,DIS_783fe1dc
+inspiratory pain,inspiratory pain,DISEASE,0.7668087482452393,1,1,DIS_718270b7
+gastroenteritis,gastroenteritis,DISEASE,0.7661722302436829,2,2,DIS_14f0ca9d
+anterior neck tenderness,anterior neck tenderness,DISEASE,0.7657559514045715,1,1,DIS_d2361702
+post - event lethargy,post - event lethargy,DISEASE,0.7657057046890259,1,1,DIS_7f232b45
+central vision loss,central vision loss,DISEASE,0.7653398513793945,4,4,DIS_ec855019
+swelling of the,swelling of the,DISEASE,0.7651422619819641,1,1,DIS_bfc3ac09
+infectious or inflammatory pulmonary process,infectious or inflammatory pulmonary process,DISEASE,0.7643009424209595,1,1,DIS_7392cc61
+solid / liquid dysphagia,solid / liquid dysphagia,DISEASE,0.7639256715774536,1,1,DIS_b69b8a32
+of vision,of vision,DISEASE,0.7632879614830017,2,2,DIS_8a4c00c5
+proximal shoulder girdle aching,proximal shoulder girdle aching,DISEASE,0.7628384232521057,1,1,DIS_796babed
+ankle fracture,ankle fracture,DISEASE,0.7626509666442871,1,1,DIS_54aa149c
+upper respiratory cough,upper respiratory cough,DISEASE,0.7625963687896729,1,1,DIS_b952e0f8
+horizontal double vision,horizontal double vision,DISEASE,0.7624976336956024,2,2,DIS_95d10d65
+left calf swelling,left calf swelling,DISEASE,0.7618350386619568,1,1,DIS_7d740129
+high myopia,high myopia,DISEASE,0.7613930106163025,1,1,DIS_f38e546d
+juvenile myasthenia gravis,juvenile myasthenia gravis,DISEASE,0.7609305381774902,1,1,DIS_668cbad2
+right - sided paresthesia,right - sided paresthesia,DISEASE,0.7606019973754883,1,1,DIS_9f1f85f8
+disequilibrium,disequilibrium,DISEASE,0.7605758905410767,1,1,DIS_65679ab0
+easy fatigability,easy fatigability,DISEASE,0.7602261304855347,1,1,DIS_c51f59bf
+coarse intention tremor of the,coarse intention tremor of the,DISEASE,0.7602256536483765,1,1,DIS_e4beee6b
+leg numbness,leg numbness,DISEASE,0.7598938345909119,1,1,DIS_8ef7b8bd
+cardiac and ocular manifestations,cardiac and ocular manifestations,DISEASE,0.7598787546157837,1,1,DIS_5e780f05
+gallstones,gallstones,DISEASE,0.7594831585884094,1,1,DIS_1a903188
+calf edema,calf edema,DISEASE,0.7593095302581787,1,1,DIS_6db90cc9
+immobilization,immobilization,DISEASE,0.7589114308357239,1,1,DIS_dd5a7c91
+pitting ankle swelling,pitting ankle swelling,DISEASE,0.7587601542472839,1,1,DIS_8c40afaf
+bandlike mid - thoracic back pain,bandlike mid - thoracic back pain,DISEASE,0.7587048411369324,1,1,DIS_652e7810
+epigastric tenderness,epigastric tenderness,DISEASE,0.7583335638046265,1,1,DIS_70922520
+right facial droop,right facial droop,DISEASE,0.7579343914985657,1,1,DIS_3d2f5b09
+paresthesias of the right forearm,paresthesias of the right forearm,DISEASE,0.7578150629997253,1,1,DIS_cb7d2d14
+vision distortion,vision distortion,DISEASE,0.757577121257782,1,1,DIS_c314ff58
+respiratory compromise,respiratory compromise,DISEASE,0.7559529542922974,1,1,DIS_1e52b8bd
+ophthalmic disease,ophthalmic disease,DISEASE,0.7557157874107361,1,1,DIS_9b827c13
+field loss,field loss,DISEASE,0.7544243335723877,1,1,DIS_77f5a619
+hand tremor,hand tremor,DISEASE,0.7542849183082581,1,1,DIS_ea95cec7
+right - eye vision loss,right - eye vision loss,DISEASE,0.7541738748550415,1,1,DIS_3c3b54f3
+anterior cervical lymphadenopathy,anterior cervical lymphadenopathy,DISEASE,0.7541005611419678,1,1,DIS_0ea0b162
+gastric emptying,gastric emptying,DISEASE,0.7533441781997681,1,1,DIS_a52a6736
+rigors,rigors,DISEASE,0.7528963088989258,1,1,DIS_cbc45786
+airway hyperresponsiveness,airway hyperresponsiveness,DISEASE,0.7526764869689941,1,1,DIS_69d728aa
+chronic copd,chronic copd,DISEASE,0.7522525787353516,1,1,DIS_fe93f383
+intermittent reactive airways,intermittent reactive airways,DISEASE,0.7517755627632141,1,1,DIS_555ad111
+postprandial nausea,postprandial nausea,DISEASE,0.7507288455963135,1,1,DIS_5c54955b
+swelling and tenderness of the right calf,swelling and tenderness of the right calf,DISEASE,0.7507166266441345,1,1,DIS_ce8233fa
+decompensated congestive heart failure,decompensated congestive heart failure,DISEASE,0.7500311136245728,1,1,DIS_e55a965a
