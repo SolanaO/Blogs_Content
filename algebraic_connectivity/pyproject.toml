@@ -1,0 +1,21 @@
+[project]
+name = "graphproject"
+version = "0.1.0"
+description = "Algebraic connectivity for graphs."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.0.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "neo4j>=6.0.2",
+    "numpy>=2.3.3",
+    "openai>=2.7.1",
+    "pandas>=2.3.3",
+    "rapidfuzz>=3.14.3",
+    "scipy>=1.16.2",
+    "seaborn>=0.13.2",
+    "torch>=2.9.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.1",
+]
